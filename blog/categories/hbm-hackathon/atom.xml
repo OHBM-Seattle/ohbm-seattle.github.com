@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[HBM Hackathon]]></title>
-  <link href="http://ohbm-seattle.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: HBM Hackathon | HBM Hackathon]]></title>
+  <link href="http://ohbm-seattle.github.io/blog/categories/hbm-hackathon/atom.xml" rel="self"/>
   <link href="http://ohbm-seattle.github.io/"/>
   <updated>2013-04-15T02:24:02-07:00</updated>
   <id>http://ohbm-seattle.github.io/</id>
@@ -18,7 +18,7 @@
     <link href="http://ohbm-seattle.github.io/blog/2013/04/15/hbm-hackathon-announced/"/>
     <updated>2013-04-15T00:00:00-07:00</updated>
     <id>http://ohbm-seattle.github.io/blog/2013/04/15/hbm-hackathon-announced</id>
-    <content type="html"><![CDATA[<p><img src="http://ohbm-seattle.github.io/images/HBM_Hackthon_logo_small.png" width="200" height="232" title="&#34;HBM Hackathon&#34;" alt="&#34;HBM Hackathon&#34;">
+    <content type="html"><![CDATA[<p><img src="/images/HBM_Hackthon_logo_small.png" width="200" height="232" title="&#34;HBM Hackathon&#34;" alt="&#34;HBM Hackathon&#34;">
 The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackathon</strong>, a meeting-long analysis and resource building competition designed to accelerate the connection between open neuroscience and cloud computing.</p>
 
 <!-- more -->
@@ -64,7 +64,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 
 <h4>Have an open human brain mapping resource you would like to have included?</h4>
 
-<p>Just contact us: <a href="&#109;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#104;&#x62;&#x6d;&#x2e;&#x68;&#x61;&#x63;&#107;&#x61;&#x74;&#104;&#111;&#x6e;&#64;&#103;&#109;&#x61;&#x69;&#108;&#x2e;&#99;&#111;&#x6d;">&#104;&#98;&#x6d;&#x2e;&#104;&#97;&#x63;&#x6b;&#97;&#x74;&#104;&#x6f;&#110;&#x40;&#103;&#109;&#97;&#x69;&#108;&#46;&#99;&#x6f;&#x6d;</a></p>
+<p>Just contact us: <a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#x68;&#98;&#109;&#x2e;&#x68;&#x61;&#99;&#x6b;&#x61;&#116;&#104;&#x6f;&#110;&#64;&#103;&#109;&#x61;&#105;&#x6c;&#46;&#99;&#111;&#109;">&#x68;&#x62;&#x6d;&#x2e;&#x68;&#x61;&#x63;&#107;&#97;&#116;&#104;&#x6f;&#x6e;&#x40;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#x6f;&#109;</a></p>
 
 <h4>Venue</h4>
 
@@ -138,12 +138,12 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 
 <p>Uddin LQ, Supekar K, Amin H, Rykhlevskaia E, Nguyen DA, Greicius MD, Menon V. Dissociable connectivity within human angular gyrus and intraparietal sulcus: evidence from functional and structural connectivity. Cereb Cortex. 2010 20:2636-46.</p></blockquote>
 
-<p><strong>Challenge 3.</strong> To be announced the week of the meeting. This &#8220;mystery&#8221; challenge is to be addressed entirely during the meeting using resources made openly available to the brain mapping community.</p>
+<p><strong>Challenge 3.</strong> To be announced the week of the meeting. This "mystery" challenge is to be addressed entirely during the meeting using resources made openly available to the brain mapping community.</p>
 
 <p><strong>Rules</strong></p>
 
 <ul>
-<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: <a href="&#109;&#97;&#105;&#x6c;&#x74;&#111;&#x3a;&#x68;&#x62;&#x6d;&#46;&#104;&#x61;&#99;&#107;&#97;&#116;&#x68;&#111;&#110;&#x40;&#x67;&#109;&#97;&#x69;&#108;&#46;&#99;&#111;&#x6d;">&#x68;&#x62;&#x6d;&#x2e;&#104;&#x61;&#x63;&#x6b;&#97;&#116;&#104;&#111;&#x6e;&#64;&#x67;&#x6d;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#109;</a></li>
+<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#104;&#x62;&#x6d;&#46;&#104;&#97;&#x63;&#107;&#97;&#x74;&#104;&#x6f;&#x6e;&#x40;&#103;&#x6d;&#97;&#x69;&#x6c;&#46;&#x63;&#x6f;&#x6d;">&#x68;&#98;&#x6d;&#46;&#104;&#x61;&#99;&#107;&#97;&#116;&#x68;&#111;&#110;&#64;&#x67;&#109;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#109;</a></li>
 <li>Participants can use any computational resources available to them, but judging will take into account innovative use of cloud computing and how openly available the approach is (see Judging)</li>
 <li>At least one team leader/presenter must attend the meeting</li>
 <li>Off-site team members are allowed and encouraged, but will not be eligible for all resources made available to registered OHBM attendees (e.g., cloud computing credits)</li>
