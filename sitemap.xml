@@ -2,14 +2,20 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://ohbm-seattle.github.io/blog/2013/04/15/hbm-hackathon-announced/</loc>
-        <lastmod>2013-04-15T02:20:59-07:00</lastmod>
+        <lastmod>2013-04-15T12:17:00-07:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://ohbm-seattle.github.io/blog/2013/04/15/challenge-number-1-allen-human-brain-atlas-integration/
+        </loc>
+        <lastmod>2013-04-15T12:17:42-07:00</lastmod>
     </url>
     <url>
         <loc>http://ohbm-seattle.github.io/blog/archives/</loc>
-        <lastmod>2013-04-15T02:20:59-07:00</lastmod>
+        <lastmod>2013-04-15T12:17:42-07:00</lastmod>
     </url>
     <url>
         <loc>http://ohbm-seattle.github.io/</loc>
-        <lastmod>2013-04-15T02:20:59-07:00</lastmod>
+        <lastmod>2013-04-15T12:17:42-07:00</lastmod>
     </url>
 </urlset>
