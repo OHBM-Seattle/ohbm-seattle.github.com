@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: NDAR | HBM Hackathon]]></title>
+  <link href="http://ohbm-seattle.github.io/blog/categories/ndar/atom.xml" rel="self"/>
+  <link href="http://ohbm-seattle.github.io/"/>
+  <updated>2013-04-18T13:28:05-07:00</updated>
+  <id>http://ohbm-seattle.github.io/</id>
+  <author>
+    <name><![CDATA[OHBM Organizing Committee]]></name>
+    <email><![CDATA[hbm.hackathon@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The National Database for Autism Research Data Dive]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/04/18/the-national-database-for-autism-research-data-dive/"/>
+    <updated>2013-04-18T13:02:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/04/18/the-national-database-for-autism-research-data-dive</id>
+    <content type="html"><![CDATA[<p><img src="http://ndar.nih.gov/images/ndar/ndar.png" title="&#34;NDAR&#34;" alt="&#34;NDAR&#34;">
+This HBM Hackathon accessible dataset is an excellent resource for finding significant relationships amongst neuroimaging, clinical, and –omics data within the National Database for Autism Research (<a href="http://ndar.nih.gov">NDAR</a>).</p>
+
+<!-- more -->
+
+
+<h4>Background</h4>
+
+<p><a href="http://ndar.nih.gov">NDAR</a> is an NIH-funded research data repository that aims to accelerate progress in autism spectrum disorders (ASD) research through data sharing, data harmonization, and the reporting of research results. NDAR is a restricted access data repository, offering a wealth of data related to human subjects research in autism.  Applying for access prior to the OHBM hack event is essential.  Additionally, it serves as a scientific community platform to multiple other research repositories, allowing for aggregation and secondary analysis of clinically captured research data.</p>
+
+<h4>Data and Tools</h4>
+
+<p>Continually updated through the contributions of primary researchers, NDAR provides authorized researchers access to contemporary relevant raw data in a relatively short amount of time after its collection.  The database currently is sharing data on <strong>48,135 individuals</strong> spread over <strong>64,335 subject / age time points</strong> across hundreds of clinical, omics, and imaging data structures harmonized using a common data dictionary and a common subject identifier (see <a href="http://ndar.nih.gov/ndar_data_dictionary.html">NDAR data dictionary</a>).  In addition to NDAR, autism data from the Autism Genetic Research Exchange, Interactive Autism Network, the Autism Tissue Program, and the normative Pediatric MRI data repository are also available, but also require approval.</p>
+
+<h4>Details</h4>
+
+<p>NDAR provides simple cohort selection/filtering on a variety of scores and types of data available at <a href="http://ndar.nih.gov/query_data.html">http://ndar.nih.gov/query_data.html</a>.  Data selected can be downloaded or pre-loaded onto an Amazon EC2 instance for evaluation using the <a href="http://www.nitrc.org/ce-forum">NITRC Computational Environment</a>, <a href="http://neuro.debian.net">NeuroDebian</a> or other available tool sets. NDAR’s rich datasets are stored in Amazon’s S3, which facilitates parallel processing and better transfer rates.</p>
+
+<p>Download packages from NDAR include a single, tab-delimited text file for each data structure received, as well as any related files (e.g. imaging or omics) and a “Create Amazon RDS database” capability scheduled for May 2013.</p>
+
+<h4>Getting Started</h4>
+
+<p>NDAR is a restricted access data repository.  Review what’s available for download from <a href="http://ndar.nih.gov/query_data.html">http://ndar.nih.gov/query_data.html</a> and apply for access at <a href="http://ndar.nih.gov/ndarpublicweb/access.html">http://ndar.nih.gov/ndarpublicweb/access.html</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
