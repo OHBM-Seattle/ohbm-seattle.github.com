@@ -4,7 +4,7 @@
   <title><![CDATA[HBM Hackathon]]></title>
   <link href="http://ohbm-seattle.github.io/atom.xml" rel="self"/>
   <link href="http://ohbm-seattle.github.io/"/>
-  <updated>2013-04-19T14:30:02-07:00</updated>
+  <updated>2013-04-21T08:57:17-07:00</updated>
   <id>http://ohbm-seattle.github.io/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Start Hacking with Data from ADNI]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/04/21/start-hacking-with-data-from-adni/"/>
+    <updated>2013-04-21T08:38:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/04/21/start-hacking-with-data-from-adni</id>
+    <content type="html"><![CDATA[<p><img src="https://ida.loni.ucla.edu/services/Images/Header/ADNI_Logo.png" title="&#34;ADNI&#34;" alt="&#34;ADNI&#34;"></p>
+
+<p>Start responding to the hackathon challenges using data from ADNI - the <a href="http://www.adni-info.org">Alzheimer&#8217;s Disease Neuroimaging Initiative</a>.</p>
+
+<!-- more -->
+
+
+<p>The Alzheimer&#8217;s Disease Neuroimaging Initiative (ADNI; <a href="http://www.adni-info.org">http://www.adni-info.org</a>) represents among the largest neuroimaging archive of data from Alzheimer&#8217;s Disease (AD), Mild Cognitively Impaired (MCI), and healthy control subjects in the world. Now entering its third phase (ADNI, ADNI GO and ADNI 2), ADNI 2 is studying the rate of change of cognition, function, brain structure, and biomarkers in 150 controls, 450 MCI, 150 with mild to moderate AD and a new group of 100 people with significant, yet subtle, memory complaints, referred to as the significant memory concern cohort.  These data are openly available for analysis by approved scientists for research purposes, development of data processing methodologies, modeling, etc. Some conditions do apply, including that each person must gain access to the data through the normal application process and channels and the requested data may not be shared among other participants.  Full details on the data access policy are provided here (<a href="http://adni.loni.ucla.edu/data-samples/access-data">http://adni.loni.ucla.edu/data-samples/access-data</a>).</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[LONI Pipeline in the Cloud]]></title>
@@ -170,7 +186,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 
 <h4>Have an open human brain mapping resource you would like to have included?</h4>
 
-<p>Just contact us: <a href="&#x6d;&#97;&#105;&#108;&#116;&#x6f;&#x3a;&#104;&#98;&#x6d;&#x2e;&#x68;&#x61;&#99;&#x6b;&#97;&#x74;&#104;&#x6f;&#110;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#46;&#x63;&#111;&#x6d;">&#x68;&#x62;&#109;&#x2e;&#x68;&#97;&#99;&#107;&#97;&#116;&#x68;&#111;&#x6e;&#x40;&#103;&#x6d;&#x61;&#x69;&#x6c;&#46;&#x63;&#x6f;&#x6d;</a></p>
+<p>Just contact us: <a href="&#109;&#97;&#x69;&#108;&#x74;&#111;&#58;&#x68;&#x62;&#109;&#x2e;&#x68;&#x61;&#99;&#x6b;&#97;&#x74;&#x68;&#x6f;&#110;&#x40;&#103;&#x6d;&#x61;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;">&#104;&#x62;&#109;&#x2e;&#x68;&#x61;&#x63;&#x6b;&#97;&#116;&#104;&#111;&#x6e;&#x40;&#103;&#109;&#97;&#105;&#x6c;&#x2e;&#99;&#111;&#x6d;</a></p>
 
 <h4>Venue</h4>
 
@@ -249,7 +265,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 <p><strong>Rules</strong></p>
 
 <ul>
-<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#111;&#58;&#x68;&#x62;&#109;&#x2e;&#104;&#x61;&#x63;&#107;&#97;&#116;&#x68;&#x6f;&#110;&#64;&#103;&#109;&#x61;&#x69;&#x6c;&#46;&#x63;&#x6f;&#109;">&#x68;&#98;&#x6d;&#46;&#x68;&#x61;&#99;&#x6b;&#x61;&#x74;&#x68;&#111;&#x6e;&#x40;&#103;&#x6d;&#x61;&#105;&#108;&#46;&#99;&#x6f;&#x6d;</a></li>
+<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: <a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#x6f;&#58;&#104;&#x62;&#x6d;&#46;&#104;&#97;&#x63;&#x6b;&#97;&#116;&#x68;&#111;&#110;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#x2e;&#99;&#111;&#x6d;">&#x68;&#98;&#x6d;&#x2e;&#x68;&#97;&#x63;&#107;&#x61;&#116;&#x68;&#x6f;&#x6e;&#64;&#x67;&#109;&#97;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;</a></li>
 <li>Participants can use any computational resources available to them, but judging will take into account innovative use of cloud computing and how openly available the approach is (see Judging)</li>
 <li>At least one team leader/presenter must attend the meeting</li>
 <li>Off-site team members are allowed and encouraged, but will not be eligible for all resources made available to registered OHBM attendees (e.g., cloud computing credits)</li>
