@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Datasets | HBM Hackathon]]></title>
   <link href="http://ohbm-seattle.github.io/blog/categories/datasets/atom.xml" rel="self"/>
   <link href="http://ohbm-seattle.github.io/"/>
-  <updated>2013-04-21T08:57:17-07:00</updated>
+  <updated>2013-04-22T20:20:09-07:00</updated>
   <id>http://ohbm-seattle.github.io/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[OpenfMRI Now an HBM Hackathon Resource]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/04/22/openfmri-now-an-hbm-hackathon-resource/"/>
+    <updated>2013-04-22T14:28:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/04/22/openfmri-now-an-hbm-hackathon-resource</id>
+    <content type="html"><![CDATA[<p><img src="https://openfmri.org/sites/all/themes/openfmri/logo.png" title="&#34;OpenfMRI&#34;" alt="&#34;OpenfMRI&#34;"></p>
+
+<p>The <a href="http://openfmri.org">OpenfMRI</a> project provides raw and processed task fMRI datasets for use in re-analysis and mega-analysis.</p>
+
+<!-- more -->
+
+
+<h4>Background</h4>
+
+<p>Currently the OpenfMRI database contains data from 18 studies (totaling 374 scanning sessions) across a wide range of different cognitive task domains, including: visual perception (object recognition, mirror reading), language processing (semantic judgments, rhyme judgments, pseudoword reading), working memory (tone counting, 1-back), cognitive control (stop signal, flanker, and Simon tasks), learning (category learning), decision making (gambling task, balloon analog risk task), memory encoding emotion regulation (reappraisal task), and social perception (false belief task).</p>
+
+<p>More details about these datasets can be obtained from <a href="http://openfmri.org/data-sets">http://openfmri.org/data-sets</a>. The data will also be made available via AWS.</p>
+
+<h4>Processing</h4>
+
+<p>The data have been preprocessed and analyzed through a full group-level fMRI analysis, using an automated FSL/Freesurfer-based processing stream developed specifically for this project.  The code for this analysis stream is available at <a href="https://github.com/poldrack/openfmri">https://github.com/poldrack/openfmri</a>.  In addition, a nipype pipeline for this dataset has been developed by Satra Ghosh and is available at <a href="http://www.mit.edu/~satra/nipype-nightly/users/examples/fmri_openfmri.html">http://www.mit.edu/~satra/nipype-nightly/users/examples/fmri_openfmri.html</a>.</p>
+
+<h4>Example Responses to Challenges</h4>
+
+<p><strong>Challenge #1:</strong> Examine whether different task-relevant networks related to patterns of gene expression in the <a href="http://human.brain-map.org">Allen Human Brain Atlas</a>.</p>
+
+<p><strong>Challenge #2:</strong> Integrate the resting state data with task data from the OpenfMRI database to identify the overlap and distinction between resting state networks and task-based networks.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Start Hacking with Data from ADNI]]></title>

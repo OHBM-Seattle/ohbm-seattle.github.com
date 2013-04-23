@@ -4,7 +4,7 @@
   <title><![CDATA[HBM Hackathon]]></title>
   <link href="http://ohbm-seattle.github.io/atom.xml" rel="self"/>
   <link href="http://ohbm-seattle.github.io/"/>
-  <updated>2013-04-21T08:57:17-07:00</updated>
+  <updated>2013-04-22T20:20:09-07:00</updated>
   <id>http://ohbm-seattle.github.io/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[OpenfMRI Now an HBM Hackathon Resource]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/04/22/openfmri-now-an-hbm-hackathon-resource/"/>
+    <updated>2013-04-22T14:28:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/04/22/openfmri-now-an-hbm-hackathon-resource</id>
+    <content type="html"><![CDATA[<p><img src="https://openfmri.org/sites/all/themes/openfmri/logo.png" title="&#34;OpenfMRI&#34;" alt="&#34;OpenfMRI&#34;"></p>
+
+<p>The <a href="http://openfmri.org">OpenfMRI</a> project provides raw and processed task fMRI datasets for use in re-analysis and mega-analysis.</p>
+
+<!-- more -->
+
+
+<h4>Background</h4>
+
+<p>Currently the OpenfMRI database contains data from 18 studies (totaling 374 scanning sessions) across a wide range of different cognitive task domains, including: visual perception (object recognition, mirror reading), language processing (semantic judgments, rhyme judgments, pseudoword reading), working memory (tone counting, 1-back), cognitive control (stop signal, flanker, and Simon tasks), learning (category learning), decision making (gambling task, balloon analog risk task), memory encoding emotion regulation (reappraisal task), and social perception (false belief task).</p>
+
+<p>More details about these datasets can be obtained from <a href="http://openfmri.org/data-sets">http://openfmri.org/data-sets</a>. The data will also be made available via AWS.</p>
+
+<h4>Processing</h4>
+
+<p>The data have been preprocessed and analyzed through a full group-level fMRI analysis, using an automated FSL/Freesurfer-based processing stream developed specifically for this project.  The code for this analysis stream is available at <a href="https://github.com/poldrack/openfmri">https://github.com/poldrack/openfmri</a>.  In addition, a nipype pipeline for this dataset has been developed by Satra Ghosh and is available at <a href="http://www.mit.edu/~satra/nipype-nightly/users/examples/fmri_openfmri.html">http://www.mit.edu/~satra/nipype-nightly/users/examples/fmri_openfmri.html</a>.</p>
+
+<h4>Example Responses to Challenges</h4>
+
+<p><strong>Challenge #1:</strong> Examine whether different task-relevant networks related to patterns of gene expression in the <a href="http://human.brain-map.org">Allen Human Brain Atlas</a>.</p>
+
+<p><strong>Challenge #2:</strong> Integrate the resting state data with task data from the OpenfMRI database to identify the overlap and distinction between resting state networks and task-based networks.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Start Hacking with Data from ADNI]]></title>
@@ -186,7 +216,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 
 <h4>Have an open human brain mapping resource you would like to have included?</h4>
 
-<p>Just contact us: <a href="&#109;&#97;&#x69;&#108;&#x74;&#111;&#58;&#x68;&#x62;&#109;&#x2e;&#x68;&#x61;&#99;&#x6b;&#97;&#x74;&#x68;&#x6f;&#110;&#x40;&#103;&#x6d;&#x61;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;">&#104;&#x62;&#109;&#x2e;&#x68;&#x61;&#x63;&#x6b;&#97;&#116;&#104;&#111;&#x6e;&#x40;&#103;&#109;&#97;&#105;&#x6c;&#x2e;&#99;&#111;&#x6d;</a></p>
+<p>Just contact us: <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#111;&#x3a;&#104;&#98;&#x6d;&#x2e;&#104;&#x61;&#x63;&#x6b;&#97;&#116;&#104;&#111;&#x6e;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#46;&#99;&#111;&#109;">&#x68;&#x62;&#109;&#x2e;&#104;&#x61;&#x63;&#107;&#x61;&#x74;&#x68;&#111;&#x6e;&#64;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#109;</a></p>
 
 <h4>Venue</h4>
 
@@ -265,7 +295,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 <p><strong>Rules</strong></p>
 
 <ul>
-<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: <a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#x6f;&#58;&#104;&#x62;&#x6d;&#46;&#104;&#97;&#x63;&#x6b;&#97;&#116;&#x68;&#111;&#110;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#x2e;&#99;&#111;&#x6d;">&#x68;&#98;&#x6d;&#x2e;&#x68;&#97;&#x63;&#107;&#x61;&#116;&#x68;&#x6f;&#x6e;&#64;&#x67;&#109;&#97;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;</a></li>
+<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: <a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#x68;&#98;&#x6d;&#x2e;&#x68;&#x61;&#99;&#107;&#x61;&#x74;&#104;&#111;&#x6e;&#x40;&#x67;&#x6d;&#97;&#105;&#x6c;&#46;&#x63;&#111;&#109;">&#x68;&#x62;&#x6d;&#x2e;&#104;&#97;&#99;&#x6b;&#x61;&#116;&#104;&#x6f;&#x6e;&#64;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#46;&#99;&#x6f;&#x6d;</a></li>
 <li>Participants can use any computational resources available to them, but judging will take into account innovative use of cloud computing and how openly available the approach is (see Judging)</li>
 <li>At least one team leader/presenter must attend the meeting</li>
 <li>Off-site team members are allowed and encouraged, but will not be eligible for all resources made available to registered OHBM attendees (e.g., cloud computing credits)</li>
