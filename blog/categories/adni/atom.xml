@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ADNI | HBM Hackathon]]></title>
   <link href="http://ohbm-seattle.github.io/blog/categories/adni/atom.xml" rel="self"/>
   <link href="http://ohbm-seattle.github.io/"/>
-  <updated>2013-04-22T20:20:09-07:00</updated>
+  <updated>2013-05-03T13:01:42-07:00</updated>
   <id>http://ohbm-seattle.github.io/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
@@ -18,9 +18,14 @@
     <link href="http://ohbm-seattle.github.io/blog/2013/04/21/start-hacking-with-data-from-adni/"/>
     <updated>2013-04-21T08:38:00-07:00</updated>
     <id>http://ohbm-seattle.github.io/blog/2013/04/21/start-hacking-with-data-from-adni</id>
-    <content type="html"><![CDATA[<p><img src="https://ida.loni.ucla.edu/services/Images/Header/ADNI_Logo.png" title="&#34;ADNI&#34;" alt="&#34;ADNI&#34;"></p>
+    <content type="html"><![CDATA[<p><img src="https://ida.loni.ucla.edu/services/Images/Header/ADNI_Logo.png" title="height=150 &#34;ADNI&#34;" alt="height=150 &#34;ADNI&#34;"></p>
 
 <p>Start responding to the hackathon challenges using data from ADNI - the <a href="http://www.adni-info.org">Alzheimer's Disease Neuroimaging Initiative</a>.</p>
+
+<br />  
+
+
+
 
 <!-- more -->
 
