@@ -39,11 +39,17 @@
         <lastmod>2013-05-03T13:01:42-07:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://ohbm-seattle.github.io/blog/2013/05/03/hacking-with-the-nitrc-computational-environment/
+        </loc>
+        <lastmod>2013-05-03T13:53:56-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://ohbm-seattle.github.io/blog/archives/</loc>
-        <lastmod>2013-05-03T13:15:46-07:00</lastmod>
+        <lastmod>2013-05-03T13:53:56-07:00</lastmod>
     </url>
     <url>
         <loc>http://ohbm-seattle.github.io/</loc>
-        <lastmod>2013-05-03T13:15:46-07:00</lastmod>
+        <lastmod>2013-05-03T13:53:56-07:00</lastmod>
     </url>
 </urlset>
