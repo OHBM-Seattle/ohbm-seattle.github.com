@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Virtual Machines | HBM Hackathon]]></title>
-  <link href="http://ohbm-seattle.github.io/blog/categories/virtual-machines/atom.xml" rel="self"/>
+  <title><![CDATA[Category: NITRC | HBM Hackathon]]></title>
+  <link href="http://ohbm-seattle.github.io/blog/categories/nitrc/atom.xml" rel="self"/>
   <link href="http://ohbm-seattle.github.io/"/>
   <updated>2013-05-13T11:37:17-07:00</updated>
   <id>http://ohbm-seattle.github.io/</id>
@@ -41,27 +41,11 @@
 
 <h3>Support</h3>
 
-<p>The staff of NITRC are available to assist users with issues (<strong><a href="&#109;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#x6e;&#x69;&#116;&#x72;&#x69;&#99;&#105;&#110;&#102;&#111;&#x40;&#110;&#105;&#116;&#x72;&#x63;&#46;&#x6f;&#114;&#x67;">&#110;&#x69;&#116;&#x72;&#x69;&#x63;&#105;&#x6e;&#x66;&#x6f;&#x40;&#110;&#105;&#116;&#114;&#99;&#46;&#111;&#114;&#103;</a></strong>), and a comprehensive <a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:User_Guide_-_NITRC_Computational_Environment">Users Guide</a> and discussion forum dedicated to <a href="http://www.nitrc.org/forum/forum.php?thread_id=3897&amp;forum_id=3663">HBM Hackathon support</a>.</p>
+<p>The staff of NITRC are available to assist users with issues (<strong><a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#x6f;&#58;&#110;&#x69;&#116;&#114;&#x69;&#99;&#105;&#110;&#x66;&#111;&#64;&#x6e;&#x69;&#x74;&#x72;&#x63;&#46;&#x6f;&#x72;&#x67;">&#110;&#105;&#x74;&#x72;&#x69;&#x63;&#105;&#110;&#102;&#111;&#x40;&#x6e;&#x69;&#x74;&#x72;&#99;&#x2e;&#111;&#114;&#x67;</a></strong>), and a comprehensive <a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:User_Guide_-_NITRC_Computational_Environment">Users Guide</a> and discussion forum dedicated to <a href="http://www.nitrc.org/forum/forum.php?thread_id=3897&amp;forum_id=3663">HBM Hackathon support</a>.</p>
 
 <h3>Conclusion</h3>
 
 <p>Best of luck in your participation in the HBM Hackathon. We hope the NITRC-CE will be a valuable resource to you.  Feel free to contact us with any questions, problems or suggestions for enhanced support of this endeavor.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[LONI Pipeline in the Cloud]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/04/18/loni-pipeline-in-the-cloud/"/>
-    <updated>2013-04-18T14:30:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/04/18/loni-pipeline-in-the-cloud</id>
-    <content type="html"><![CDATA[<p><img src="http://pipeline.loni.ucla.edu/wp-content/themes/pipeline2012/images/explore_Coin.jpg" title="height=150 &#34;LONI Pipeline&#34;" alt="height=150 &#34;LONI Pipeline&#34;"></p>
-
-<p>The <a href="http://pipeline.loni.ucla.edu" title="LONI Pipeline">LONI Pipeline</a> is available on the Cloud as an <a href="http://pipeline.loni.ucla.edu/products-services/pipeline-server-on-ec2" title="Pipeline on EC2">Amazon EC2 Instance</a> (i.e., virtual machine) with access to several datasets.</p>
-
-<!-- more -->
-
-
-<p> Both free and paid AWS/EC2 subscriptions can be used to launch the DPS (Distributed Pipeline Server) on EC2, and click Launch Instance. Then remote clients can connect to the hostname of that instance (e.g., ec2-184-73-1-1.compute-1.amazonaws.com). After connecting to the server, you can open a workflow under Server Library and run. The Pipeline library includes 100’s of imaging and genetics software suites, atomic processing tools, datasets and resources.  For additional details on LONI Pipeline, please see <a href="http://pipeline.loni.ucla.edu">http://pipeline.loni.ucla.edu</a>.</p>
 ]]></content>
   </entry>
   
