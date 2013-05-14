@@ -45,8 +45,14 @@
         <lastmod>2013-05-13T11:34:03-07:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://ohbm-seattle.github.io/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange/
+        </loc>
+        <lastmod>2013-05-14T15:07:51-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://ohbm-seattle.github.io/blog/archives/</loc>
-        <lastmod>2013-05-13T11:34:03-07:00</lastmod>
+        <lastmod>2013-05-14T15:07:51-07:00</lastmod>
     </url>
     <url>
         <loc>http://ohbm-seattle.github.io/datasets/</loc>
@@ -54,6 +60,6 @@
     </url>
     <url>
         <loc>http://ohbm-seattle.github.io/</loc>
-        <lastmod>2013-05-13T11:34:03-07:00</lastmod>
+        <lastmod>2013-05-14T15:07:51-07:00</lastmod>
     </url>
 </urlset>

@@ -4,7 +4,7 @@
   <title><![CDATA[HBM Hackathon]]></title>
   <link href="http://ohbm-seattle.github.io/atom.xml" rel="self"/>
   <link href="http://ohbm-seattle.github.io/"/>
-  <updated>2013-05-13T11:37:17-07:00</updated>
+  <updated>2013-05-14T15:10:18-07:00</updated>
   <id>http://ohbm-seattle.github.io/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
@@ -12,6 +12,69 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Explore and get public fMRI datasets from COINS Data Exchange]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange/"/>
+    <updated>2013-05-14T13:29:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange</id>
+    <content type="html"><![CDATA[<p><img src="http://d1yzvr466z4u1c.cloudfront.net/image02.jpg" alt="COINS Banner" style="width:100%;" /></p>
+
+<p>COINS manages fMRI, MEG and phenotypic data for over 400 studies across six research institutions.</p>
+
+<!-- more -->
+
+
+<p>An ever-increasing subset of this data is being made publicly available on the COINS Data Exchange. Currently, the research community can explore and request raw MRI, fMRI and phenotypic data from several independent studies.</p>
+
+<h3>Tutorial:</h3>
+
+<p>A simple video-tutorial for querying can be seen on the COINS Data Exchange site, or on <a href="http://www.youtube.com/watch?v=YjMbCq5NBuc">YouTube</a>.</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/YjMbCq5NBuc "></iframe></div>
+
+
+<h3>Exploration:</h3>
+
+<p>Creating a COINS account is easy. Just go to <a href="http://coins.mrn.org/dx">http://coins.mrn.org/dx</a>, enter your email address, make up a password and click ‘Get Account’.  That account is needed to let you know when your data are available for download, and to track any data agreements necessary for specific datasets. It is recommended that you do this prior to the Hackathon, just to explore the Data Exchange before needing to use it.</p>
+
+<p>Once your account has been created, you can browse data in the Data Exchange. A unique filtering tool allows you to construct complex queries by combining data filters into logical groups and sub-groups. The goal of the exploration should be to target the exact data that is useful to you before you request and download it. This will save bandwidth and computing time on the COINS servers. Additionally, a well-targeted request will save you time by decreasing the need to post-filter data after download.</p>
+
+<h3>Approval:</h3>
+
+<p>Once you have found your ideal data, you can request that data by clicking the ‘Request’ button at the top-right. Though all data in the COINS data exchange is fully anonymized and defaced, some studies will need to explicitly approve your request. For this reason, you can provide information about your intentions for the data that you are requesting. Other studies (ABIDE, for example) have pre-approved their data for instant download. Each data-source is approved independently, so you can start downloading data as it is approved.</p>
+
+<h3>Delivery:</h3>
+
+<p>Approved data is packaged into ‘Data Capsules’ on the COINS servers. You will receive an email when your Data Capsule is ready, and you can then begin your download(s).</p>
+
+<h3>Using COINS Data Exchange to meet your OHBM Hackathon objectives:</h3>
+
+<p>At present, the COINS Data Exchange is only accessible through the browser interface at <a href="http://coins.mrn.org/dx">http://coins.mrn.org/dx</a>. However, once your data has been approved and packaged for download, you can download each data capsule directly to another web-server or cloud-based storage device from the command line or a script.</p>
+
+<p>After choosing which capsule to download, a dialog will appear with a temporary URL that can be used to request the capsule directly. The link will expire as soon as the download button is clicked, or after five minutes, so please do not click on the data until you are ready to download it..
+<img src="http://d1yzvr466z4u1c.cloudfront.net/image01.png" alt="COINS Banner" style="max-width:100%;" /></p>
+
+<p>Downloaded imaging data may consist of DICOM or NIfTI files, and will be organized in the following file-hierarchy:</p>
+
+<p><img src="http://d1yzvr466z4u1c.cloudfront.net/image00.png" alt="COINS Banner" style="max-width:100%" /></p>
+
+<p>Downloaded phenotypic (assessment) data will be contained in CSV files: one per instrument (questionnaire form).</p>
+
+<h3>Currently Available Datasets:</h3>
+
+<ul>
+<li><p><strong>ABIDE:</strong> from <a href="http://fcon_1000.projects.nitrc.org/indi/abide/">http://fcon_1000.projects.nitrc.org/indi/abide/</a>: In response, the Autism Brain Imaging Data Exchange (ABIDE) hereby provides previously collected resting state functional magnetic resonance imaging (R-fMRI) datasets from 539 individuals with ASD and 573 typical controls for the purpose of data sharing in the broader scientific community. Various cognitive and clinical assessments are also available. These data are pre-approved for sharing.</p></li>
+<li><p><strong>Discovery Sci:</strong> <a href="http://fcon_1000.projects.nitrc.org/indi/pro/nki.html">http://fcon_1000.projects.nitrc.org/indi/pro/nki.html</a>: The NKI/Rockland Sample is intended to be a phenotypically rich neuroimaging sample, consisting of data obtained from individuals between the ages of 4 and 85 year-old. All individuals to be included in the sample undergo semi-structured diagnostic psychiatric interviews, and complete a battery of psychiatric, cognitive and behavioral assessments in order to provide comprehensive phenotypic information for the purpose of exploring brain/behavior relationships. Data from the NKI/Rockland sample will be given away prospectively, during the course of acquisition (randomized 2-8 week lag). These data require a data sharing agreement which can be quickly approved.</p></li>
+<li><p><strong>MCIC:</strong> The MIND Clinical Imaging Consortium is composed of The Mental Illness and Neuroscience Discovery Institute, now the Mind Research Network (MRN, <a href="http://mrn.org">http://mrn.org</a>), comprised of investigators at the University of New Mexico, the University of Minnesota, Massachusetts General Hospital, and the University of Iowa (data from this site not available). The MCIC consortium conducted a cross-sectional study to identify quantitative neuroimaging biomarkers of schizophrenia. Expertly collected, well-curated data sets consisting of comprehensive clinical characterization and raw structural, functional and diffusion-weighted DICOM images in schizophrenia patients (n=162) and sex and age-matched controls (n=169) are now accessible to the scientific community. These data also require a data sharing agreement which can be quickly approved.</p></li>
+</ul>
+
+
+<h3>Contact:</h3>
+
+<p>The COINS developers are excited to support the OHBM Hackathon participants. Any requests, questions or feedback can be directed to <a href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#58;&#x6e;&#x69;&#x40;&#109;&#114;&#x6e;&#46;&#x6f;&#x72;&#x67;">&#x6e;&#x69;&#x40;&#109;&#114;&#x6e;&#46;&#x6f;&#114;&#103;</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[NITRC-CE: A computational resource for the HBM Hackathon]]></title>
@@ -41,7 +104,7 @@
 
 <h3>Support</h3>
 
-<p>The staff of NITRC are available to assist users with issues (<strong><a href="&#109;&#x61;&#x69;&#108;&#x74;&#x6f;&#58;&#110;&#105;&#116;&#114;&#x69;&#x63;&#105;&#x6e;&#x66;&#x6f;&#x40;&#110;&#x69;&#x74;&#114;&#99;&#46;&#111;&#114;&#103;">&#x6e;&#x69;&#x74;&#x72;&#x69;&#99;&#105;&#110;&#x66;&#x6f;&#64;&#x6e;&#x69;&#116;&#114;&#x63;&#x2e;&#111;&#114;&#x67;</a></strong>), and a comprehensive <a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:User_Guide_-_NITRC_Computational_Environment">Users Guide</a> and discussion forum dedicated to <a href="http://www.nitrc.org/forum/forum.php?thread_id=3897&amp;forum_id=3663">HBM Hackathon support</a>.</p>
+<p>The staff of NITRC are available to assist users with issues (<strong><a href="&#x6d;&#97;&#x69;&#108;&#116;&#x6f;&#58;&#x6e;&#x69;&#x74;&#114;&#x69;&#99;&#x69;&#x6e;&#102;&#111;&#64;&#110;&#x69;&#x74;&#x72;&#x63;&#x2e;&#x6f;&#x72;&#103;">&#x6e;&#105;&#116;&#x72;&#105;&#x63;&#105;&#110;&#x66;&#x6f;&#64;&#110;&#105;&#x74;&#114;&#x63;&#x2e;&#x6f;&#114;&#103;</a></strong>), and a comprehensive <a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:User_Guide_-_NITRC_Computational_Environment">Users Guide</a> and discussion forum dedicated to <a href="http://www.nitrc.org/forum/forum.php?thread_id=3897&amp;forum_id=3663">HBM Hackathon support</a>.</p>
 
 <h3>Conclusion</h3>
 
@@ -86,7 +149,7 @@
 <li>Complete the <strong><a href="http://www.humanconnectome.org/data/data-use-terms/index.html">HCP Registration</a></strong> and agree to the <strong><a href="http://www.humanconnectome.org/data/data-use-terms/open-access.html">HCP Open Access Data Use Terms</a></strong></li>
 <li>Complete the <strong><a href="http://www.humanbrainmapping.org/hackathon">HBM Hackathon Registration</a></strong></li>
 <li>Create an <strong><a href="http://aws.amazon.com/">Amazon Web Services Account</a></strong></li>
-<li>Email <strong><a href="&#109;&#97;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x68;&#98;&#x6d;&#46;&#104;&#x61;&#x63;&#107;&#x61;&#116;&#104;&#x6f;&#x6e;&#64;&#x67;&#x6d;&#97;&#x69;&#108;&#46;&#x63;&#111;&#x6d;">&#104;&#98;&#109;&#46;&#x68;&#x61;&#x63;&#107;&#x61;&#x74;&#x68;&#x6f;&#110;&#64;&#103;&#109;&#x61;&#105;&#108;&#x2e;&#99;&#x6f;&#109;</a></strong> with your HCP and AWS email address(es)</li>
+<li>Email <strong><a href="&#109;&#97;&#105;&#x6c;&#116;&#x6f;&#x3a;&#104;&#x62;&#109;&#x2e;&#104;&#97;&#x63;&#x6b;&#x61;&#116;&#104;&#111;&#x6e;&#x40;&#x67;&#109;&#97;&#105;&#108;&#x2e;&#x63;&#x6f;&#109;">&#x68;&#x62;&#109;&#x2e;&#x68;&#97;&#x63;&#107;&#97;&#116;&#x68;&#x6f;&#110;&#x40;&#103;&#x6d;&#97;&#105;&#x6c;&#x2e;&#99;&#111;&#109;</a></strong> with your HCP and AWS email address(es)</li>
 </ol>
 
 
@@ -112,7 +175,7 @@ May 1, 2013</p></blockquote>
 
 <p>Ready to start downloading? Make sure you&#8217;ve completed the <a href="http://www.humanconnectome.org/data/data-use-terms/index.html">HCP registration</a> and <a href="http://aws.amazon.com/">created an account with AWS</a>.</p>
 
-<p>Next, send an email to <strong><a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#111;&#x3a;&#x68;&#98;&#109;&#x2e;&#104;&#x61;&#99;&#107;&#97;&#x74;&#x68;&#x6f;&#x6e;&#x40;&#103;&#x6d;&#x61;&#x69;&#108;&#46;&#99;&#111;&#x6d;">&#104;&#x62;&#109;&#x2e;&#x68;&#97;&#x63;&#107;&#x61;&#116;&#104;&#111;&#110;&#64;&#103;&#109;&#97;&#105;&#108;&#x2e;&#x63;&#x6f;&#x6d;</a></strong> with your HCP and AWS email address(es).</p>
+<p>Next, send an email to <strong><a href="&#109;&#97;&#x69;&#108;&#116;&#111;&#x3a;&#104;&#x62;&#x6d;&#x2e;&#x68;&#97;&#x63;&#107;&#97;&#116;&#104;&#x6f;&#x6e;&#x40;&#103;&#109;&#97;&#x69;&#108;&#46;&#99;&#111;&#109;">&#104;&#98;&#x6d;&#x2e;&#x68;&#x61;&#99;&#107;&#x61;&#x74;&#x68;&#111;&#110;&#x40;&#103;&#109;&#97;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;</a></strong> with your HCP and AWS email address(es).</p>
 
 <p>We will use your HCP and AWS email address(es) to:</p>
 
@@ -378,7 +441,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 
 <h4>Have an open human brain mapping resource you would like to have included?</h4>
 
-<p>Just contact us: <a href="&#109;&#x61;&#105;&#108;&#116;&#111;&#x3a;&#104;&#x62;&#109;&#x2e;&#x68;&#97;&#99;&#107;&#x61;&#x74;&#x68;&#x6f;&#x6e;&#x40;&#103;&#109;&#97;&#x69;&#108;&#46;&#x63;&#111;&#x6d;">&#104;&#98;&#109;&#46;&#104;&#97;&#99;&#x6b;&#97;&#x74;&#x68;&#x6f;&#110;&#x40;&#x67;&#x6d;&#97;&#105;&#108;&#46;&#x63;&#x6f;&#109;</a></p>
+<p>Just contact us: <a href="&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#104;&#98;&#109;&#x2e;&#104;&#97;&#99;&#107;&#97;&#x74;&#x68;&#x6f;&#110;&#x40;&#x67;&#109;&#x61;&#x69;&#x6c;&#46;&#99;&#x6f;&#109;">&#x68;&#x62;&#x6d;&#46;&#104;&#97;&#99;&#107;&#x61;&#116;&#104;&#111;&#x6e;&#64;&#103;&#x6d;&#97;&#x69;&#x6c;&#46;&#x63;&#111;&#x6d;</a></p>
 
 <h4>Venue</h4>
 
@@ -457,7 +520,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 <p><strong>Rules</strong></p>
 
 <ul>
-<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: <a href="&#109;&#x61;&#105;&#108;&#x74;&#x6f;&#58;&#104;&#x62;&#109;&#46;&#x68;&#x61;&#99;&#107;&#97;&#116;&#x68;&#111;&#x6e;&#64;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#99;&#111;&#109;">&#104;&#98;&#x6d;&#46;&#104;&#97;&#x63;&#107;&#x61;&#116;&#104;&#x6f;&#110;&#x40;&#103;&#109;&#97;&#105;&#x6c;&#46;&#99;&#x6f;&#x6d;</a></li>
+<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#111;&#58;&#x68;&#98;&#x6d;&#46;&#104;&#97;&#x63;&#107;&#97;&#116;&#104;&#111;&#110;&#x40;&#103;&#109;&#x61;&#x69;&#x6c;&#46;&#x63;&#111;&#109;">&#104;&#x62;&#x6d;&#46;&#x68;&#97;&#x63;&#x6b;&#x61;&#x74;&#x68;&#x6f;&#x6e;&#x40;&#103;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#99;&#x6f;&#x6d;</a></li>
 <li>Participants can use any computational resources available to them, but judging will take into account innovative use of cloud computing and how openly available the approach is (see Judging)</li>
 <li>At least one team leader/presenter must attend the meeting</li>
 <li>Off-site team members are allowed and encouraged, but will not be eligible for all resources made available to registered OHBM attendees (e.g., cloud computing credits)</li>
