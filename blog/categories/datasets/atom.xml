@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Datasets | HBM Hackathon]]></title>
   <link href="http://ohbm-seattle.github.io/blog/categories/datasets/atom.xml" rel="self"/>
   <link href="http://ohbm-seattle.github.io/"/>
-  <updated>2013-05-14T15:10:18-07:00</updated>
+  <updated>2013-05-29T15:01:30-07:00</updated>
   <id>http://ohbm-seattle.github.io/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
@@ -12,6 +12,58 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[NIF: an inventory of Web-based neuroscience resources]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources/"/>
+    <updated>2013-05-29T14:03:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources</id>
+    <content type="html"><![CDATA[<p><img src="http://www.neuinfo.org/images/nif-logo.png" width="75" title="&#34;NIF&#34;" alt="&#34;NIF&#34;"></p>
+
+<p>The <a href="http://www.neuinfo.org">Neuroscience Information Framework</a>: neuroscience data, materials, and tools  via any computer connected to the Internet.</p>
+
+<!-- more -->
+
+
+<h4>Background</h4>
+
+<p>Currently NIF Offers:</p>
+
+<ol>
+<li>A <a href="http://www.neuinfo.org/nif/nifgwt.html">search</a> portal for researchers looking for neuroscience information, tools, data or materials</li>
+<li>Access to content normally not indexed by search engines (i.e, the "hidden web")</li>
+<li><a href="http://neuinfo.org/nif_components/disco/interoperation.shtm">Tools</a> for promoting interoperability among databases</li>
+<li>The <a href="http://www.neuinfo.org/vocabularies/index.shtm">NIFSTD ontology</a> covering the major domains of neuroscience (e.g., brain anatomy, cells, organisms, diseases, techniques)</li>
+<li><a href="http://www.neuinfo.org/developers/index.shtm">Developer resources</a> for accessing the NIF vocabulary and NIF tools, such as <a href="http://neuinfo.org/developers/nif_web_services.shtm">web services</a> and including a <a href="http://neuinfo.org/tutorials/developers_tool/federated_data.shtm">tutorial</a></li>
+</ol>
+
+
+<p>Some particular data sets which can be offered are Brain Connectivity Data (50316 records), Brain Activation Foci (5,145), Diseases (1,521), Microarray (642,995):</p>
+
+<ul>
+<li><a href="https://www.neuinfo.org/mynif/search.php?q=connectivity&amp;first=true&amp;cf=Connectivity">Integrated Nervous System Connectivity View</a> is an aggregated dataset of connectivity statements from BAMS, CoCoMac, BrainMaps, Connectome Wiki, the Hippocampal-Parahippocampal Table of Temporal-Lobe.com and the Avian Brain Circuitry Database.</li>
+<li><a href="https://www.neuinfo.org/mynif/search.php?q=connectivity&amp;first=true&amp;cf=Disease&amp;t=indexable&amp;nif=nlx_86401-1">Integrated Disease View</a> is a virtual database currently indexing authoritative information on disease and treatment options from: NINDS Disorder List and PubMed Health.</li>
+<li><a href="https://www.neuinfo.org/mynif/search.php?q=connectivity&amp;first=true&amp;cf=Brain%20Activation%20Foci">Activation Foci</a> data provides functional activation foci data from published neuroimaging studies.</li>
+</ul>
+
+
+<h4>Example Responses to Challenges</h4>
+
+<p><strong>Challenge 1:</strong></p>
+
+<ul>
+<li>Use NIF neuron registry to identify cell systems in various neurodegenerative diseases and map it to ABA data.</li>
+<li>For different diseases, use NeuronRegistry-NeuroLex to infer from genes what specific cell populations differently effect neuron types. Also, we'd like to link those cell systems in Neurodegenerative diseases to neurotransmitter data in NeuronRegistry.</li>
+<li>For example, in Alzheimer we want to examine ABA genes and how differently they affect different group of neurons found in NeuronRegistry. Infer what cell populations impacted in various brain regions.</li>
+<li>ABA has mapped neurotransmitter related genes, thus one challenge is: <strong>Are there specific neurotransmitter systems affected in mental disorders and do they map to any known cell type?</strong></li>
+</ul>
+
+
+<p><strong>Challenge 2:</strong></p>
+
+<p>Use NIF cell data as a bridge between resting data and projections of know cell types in various brain regions (ABA). Use Neurolex (NIF) and tractography (NIF) data we can estimate what type of cells where can cell body are and where axon projected.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Explore and get public fMRI datasets from COINS Data Exchange]]></title>
@@ -71,7 +123,7 @@
 
 <h3>Contact:</h3>
 
-<p>The COINS developers are excited to support the OHBM Hackathon participants. Any requests, questions or feedback can be directed to <a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#111;&#58;&#x6e;&#105;&#x40;&#x6d;&#x72;&#x6e;&#46;&#111;&#114;&#103;">&#110;&#105;&#x40;&#109;&#x72;&#110;&#x2e;&#111;&#x72;&#x67;</a>.</p>
+<p>The COINS developers are excited to support the OHBM Hackathon participants. Any requests, questions or feedback can be directed to <a href="&#109;&#x61;&#105;&#108;&#116;&#111;&#x3a;&#110;&#105;&#64;&#109;&#x72;&#x6e;&#x2e;&#x6f;&#x72;&#103;">&#x6e;&#105;&#x40;&#109;&#x72;&#x6e;&#x2e;&#x6f;&#114;&#x67;</a>.</p>
 ]]></content>
   </entry>
   
@@ -103,7 +155,7 @@
 
 <h3>Support</h3>
 
-<p>The staff of NITRC are available to assist users with issues (<strong><a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#x6f;&#x3a;&#x6e;&#105;&#x74;&#x72;&#x69;&#x63;&#105;&#x6e;&#x66;&#111;&#x40;&#x6e;&#105;&#x74;&#114;&#x63;&#46;&#111;&#114;&#103;">&#x6e;&#105;&#x74;&#114;&#x69;&#x63;&#x69;&#110;&#x66;&#111;&#64;&#110;&#105;&#x74;&#x72;&#x63;&#x2e;&#x6f;&#114;&#103;</a></strong>), and a comprehensive <a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:User_Guide_-_NITRC_Computational_Environment">Users Guide</a> and discussion forum dedicated to <a href="http://www.nitrc.org/forum/forum.php?thread_id=3897&amp;forum_id=3663">HBM Hackathon support</a>.</p>
+<p>The staff of NITRC are available to assist users with issues (<strong><a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#x6f;&#58;&#110;&#x69;&#116;&#114;&#x69;&#99;&#105;&#110;&#102;&#x6f;&#x40;&#x6e;&#x69;&#x74;&#114;&#x63;&#x2e;&#111;&#114;&#103;">&#x6e;&#x69;&#116;&#114;&#105;&#99;&#105;&#110;&#102;&#x6f;&#64;&#x6e;&#105;&#116;&#x72;&#x63;&#x2e;&#x6f;&#x72;&#x67;</a></strong>), and a comprehensive <a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:User_Guide_-_NITRC_Computational_Environment">Users Guide</a> and discussion forum dedicated to <a href="http://www.nitrc.org/forum/forum.php?thread_id=3897&amp;forum_id=3663">HBM Hackathon support</a>.</p>
 
 <h3>Conclusion</h3>
 
@@ -148,7 +200,7 @@
 <li>Complete the <strong><a href="http://www.humanconnectome.org/data/data-use-terms/index.html">HCP Registration</a></strong> and agree to the <strong><a href="http://www.humanconnectome.org/data/data-use-terms/open-access.html">HCP Open Access Data Use Terms</a></strong></li>
 <li>Complete the <strong><a href="http://www.humanbrainmapping.org/hackathon">HBM Hackathon Registration</a></strong></li>
 <li>Create an <strong><a href="http://aws.amazon.com/">Amazon Web Services Account</a></strong></li>
-<li>Email <strong><a href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#x3a;&#104;&#x62;&#x6d;&#x2e;&#104;&#x61;&#99;&#x6b;&#97;&#116;&#104;&#111;&#x6e;&#64;&#103;&#x6d;&#97;&#105;&#108;&#x2e;&#x63;&#x6f;&#109;">&#x68;&#x62;&#x6d;&#46;&#x68;&#97;&#99;&#107;&#97;&#x74;&#x68;&#x6f;&#110;&#64;&#103;&#x6d;&#97;&#105;&#x6c;&#46;&#x63;&#x6f;&#x6d;</a></strong> with your HCP and AWS email address(es)</li>
+<li>Email <strong><a href="&#109;&#97;&#105;&#x6c;&#116;&#111;&#58;&#x68;&#x62;&#109;&#x2e;&#104;&#97;&#x63;&#x6b;&#97;&#x74;&#x68;&#111;&#x6e;&#64;&#103;&#109;&#97;&#x69;&#x6c;&#x2e;&#99;&#111;&#x6d;">&#x68;&#x62;&#x6d;&#x2e;&#104;&#x61;&#x63;&#x6b;&#97;&#116;&#x68;&#x6f;&#x6e;&#x40;&#103;&#109;&#97;&#x69;&#x6c;&#46;&#x63;&#x6f;&#x6d;</a></strong> with your HCP and AWS email address(es)</li>
 </ol>
 
 
@@ -174,7 +226,7 @@ May 1, 2013</p></blockquote>
 
 <p>Ready to start downloading? Make sure you've completed the <a href="http://www.humanconnectome.org/data/data-use-terms/index.html">HCP registration</a> and <a href="http://aws.amazon.com/">created an account with AWS</a>.</p>
 
-<p>Next, send an email to <strong><a href="&#109;&#x61;&#x69;&#108;&#116;&#111;&#x3a;&#104;&#x62;&#109;&#46;&#x68;&#x61;&#99;&#x6b;&#x61;&#116;&#x68;&#111;&#110;&#x40;&#103;&#109;&#97;&#105;&#108;&#x2e;&#x63;&#x6f;&#109;">&#104;&#x62;&#x6d;&#x2e;&#x68;&#x61;&#x63;&#107;&#97;&#116;&#x68;&#111;&#x6e;&#64;&#103;&#x6d;&#97;&#105;&#108;&#46;&#99;&#x6f;&#x6d;</a></strong> with your HCP and AWS email address(es).</p>
+<p>Next, send an email to <strong><a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#111;&#x3a;&#x68;&#x62;&#109;&#x2e;&#104;&#x61;&#99;&#x6b;&#97;&#x74;&#104;&#x6f;&#110;&#x40;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;">&#104;&#x62;&#109;&#46;&#104;&#97;&#99;&#x6b;&#97;&#x74;&#104;&#x6f;&#x6e;&#x40;&#x67;&#x6d;&#x61;&#105;&#x6c;&#46;&#x63;&#111;&#x6d;</a></strong> with your HCP and AWS email address(es).</p>
 
 <p>We will use your HCP and AWS email address(es) to:</p>
 
@@ -258,27 +310,6 @@ File s3://hcp.aws.amazon.com/q1/100307/T1w/BiasField_acpc_dc.nii.gz saved as 'T1
 <p><strong>Challenge #1:</strong> Examine whether different task-relevant networks related to patterns of gene expression in the <a href="http://human.brain-map.org">Allen Human Brain Atlas</a>.</p>
 
 <p><strong>Challenge #2:</strong> Integrate the resting state data with task data from the OpenfMRI database to identify the overlap and distinction between resting state networks and task-based networks.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Start Hacking with Data from ADNI]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/04/21/start-hacking-with-data-from-adni/"/>
-    <updated>2013-04-21T08:38:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/04/21/start-hacking-with-data-from-adni</id>
-    <content type="html"><![CDATA[<p><img src="https://ida.loni.ucla.edu/services/Images/Header/ADNI_Logo.png" title="height=150 &#34;ADNI&#34;" alt="height=150 &#34;ADNI&#34;"></p>
-
-<p>Start responding to the hackathon challenges using data from ADNI - the <a href="http://www.adni-info.org">Alzheimer's Disease Neuroimaging Initiative</a>.</p>
-
-<br />  
-
-
-
-
-<!-- more -->
-
-
-<p>The Alzheimer's Disease Neuroimaging Initiative (ADNI; <a href="http://www.adni-info.org">http://www.adni-info.org</a>) represents among the largest neuroimaging archive of data from Alzheimer's Disease (AD), Mild Cognitively Impaired (MCI), and healthy control subjects in the world. Now entering its third phase (ADNI, ADNI GO and ADNI 2), ADNI 2 is studying the rate of change of cognition, function, brain structure, and biomarkers in 150 controls, 450 MCI, 150 with mild to moderate AD and a new group of 100 people with significant, yet subtle, memory complaints, referred to as the significant memory concern cohort.  These data are openly available for analysis by approved scientists for research purposes, development of data processing methodologies, modeling, etc. Some conditions do apply, including that each person must gain access to the data through the normal application process and channels and the requested data may not be shared among other participants.  Full details on the data access policy are provided here (<a href="http://adni.loni.ucla.edu/data-samples/access-data">http://adni.loni.ucla.edu/data-samples/access-data</a>).</p>
 ]]></content>
   </entry>
   
