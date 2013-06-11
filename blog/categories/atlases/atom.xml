@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Atlases | HBM Hackathon]]></title>
+  <link href="http://ohbm-seattle.github.io/blog/categories/atlases/atom.xml" rel="self"/>
+  <link href="http://ohbm-seattle.github.io/"/>
+  <updated>2013-06-11T15:58:59-07:00</updated>
+  <id>http://ohbm-seattle.github.io/</id>
+  <author>
+    <name><![CDATA[OHBM Organizing Committee]]></name>
+    <email><![CDATA[hbm.hackathon@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[NeuroDebian: The ultimate neuroscience software platform]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform/"/>
+    <updated>2013-06-11T18:00:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform</id>
+    <content type="html"><![CDATA[<p><img src="/images/NeuroDebian.png" title="&#34;NeuroDebian&#34;" alt="&#34;NeuroDebian&#34;"></p>
+
+<p><a href="http://neuro.debian.net">NeuroDebian</a> is a turnkey software platform for nearly all aspects of the neuroscientific research process.</p>
+
+<!-- more -->
+
+
+<p>NeuroDebian provides a large collection of popular neuroscience research software for the <a href="http://www.debian.org">Debian</a> operating system as well as <a href="http://www.ubuntu.com">Ubuntu</a> and other derivatives.  Moreover it provides some popular datasets and atlases within the same convenient package management system.</p>
+
+<h3>Software</h3>
+
+<p>Popular neuroscience-oriented packages include <a href="http://neuro.debian.net/pkgs/afni.html">AFNI</a>, <a href="http://neuro.debian.net/pkgs/fsl.html">FSL</a>, <a href="http://neuro.debian.net/pkgs/python-mvpa2.html">PyMVPA</a> and <a href="http://neuro.debian.net/pkgs.html">many others</a>. In addition popular projects for generic (e.g. <a href="http://neuro.debian.net/pkgs/python-pandas.html">pandas</a>, <a href="http://neuro.debian.net/pkgs/xppaut.html">xppaut</a>) and distributed (e.g., <a href="http://neuro.debian.net/pkgs/coop-computing-tools.html">coop-computing-tools</a>, <a href="http://neuro.debian.net/pkgs/condor.html">condor</a>) computation needs are included.  The <a href="http://neuro.debian.net/pkgs.html">entire list</a> is too long to cite here.</p>
+
+<h3>Data</h3>
+
+<ul>
+<li>Atlases provided by software such as <a href="http://neuro.debian.net/pkgs/fsl.html">FSL</a> and <a href="http://neuro.debian.net/pkgs/afni.html">AFNI</a></li>
+<li><a href="http://neuro.debian.net/pkgs/neurosynth-dataset.html">NeuroSynth dataset</a> and <a href="http://neuro.debian.net/pkgs/fsl-neurosynth-atlas.html">its FSL atlas</a></li>
+<li><a href="http://neuro.debian.net/pkgs/haxby2001-faceobject.html">Haxby 2001</a> dataset</li>
+<li><a href="http://neuro.debian.net/pkgs/python-mvpa2-tutorialdata.html">PyMVPA tutorial</a> (including data and IPython notebook)</li>
+<li>See <a href="http://neuro.debian.net/pkglists/toc_pkgs_for_release_data.html">our website</a> for the exhaustive list</li>
+</ul>
+
+
+<h3>Installation</h3>
+
+<p>Majority of software packaged by NeuroDebian team is integrated are already available on any stock <a href="http://www.debian.org">Debian</a> or <a href="http://www.ubuntu.com">Ubuntu</a> system.  In addition we maintain a dedicated <a href="http://neuro.debian.net/#get-neurodebian">NeuroDebian repository</a> which you could add to APT sources on your stock Debian/Ubuntu installation to obtain most recent versions and software we maintain AND data packages which are absent from official Debian and Ubuntu archives.</p>
+
+<h4>Personal virtualization</h4>
+
+<p>Pre-crafted <a href="http://neuro.debian.net/vm.html">NeuroDebian virtual appliance</a> allows to start using NeuroDebian and thousands of available software packages on any operating system in matter of minutes.</p>
+
+<h4>Cloud</h4>
+
+<p>NeuroDebian provides software for the NITRC-CE environment available for the hackathon participants.</p>
+
+<h3>Support</h3>
+
+<p><a href="mailto:team@neuro.debian.net">Email us directly</a> with any "private" communication. Otherwise please use our <a href="http://lists.alioth.debian.org/mailman/listinfo/neurodebian-users">public mailing list</a> with any support questions.</p>
+
+<p>You are welcome also to join #neurodebian IRC room on OFTC network if you have quick questions or want to join a live discussion.</p>
+
+<p>Please visit our <a href="http://neuro.debian.net/about.html#chap-contacts">support</a> page for additional channels.</p>
+
+<h3>Conclusion</h3>
+
+<p>If you are not using NeuroDebian <em>already</em> - you must try it now!</p>
+
+<!-- some packages worth mentioning -->
+
+
+
+]]></content>
+  </entry>
+  
+</feed>
