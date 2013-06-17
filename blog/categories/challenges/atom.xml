@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Challenges | HBM Hackathon]]></title>
   <link href="http://ohbm-seattle.github.io/blog/categories/challenges/atom.xml" rel="self"/>
   <link href="http://ohbm-seattle.github.io/"/>
-  <updated>2013-06-11T15:58:59-07:00</updated>
+  <updated>2013-06-17T13:16:58-07:00</updated>
   <id>http://ohbm-seattle.github.io/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
@@ -12,6 +12,63 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The 3rd HBM Hackathon challenge: Resources Mapped to MNI Space]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/06/17/the-3rd-challenge-and-mapping-to-mni/"/>
+    <updated>2013-06-17T07:10:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/06/17/the-3rd-challenge-and-mapping-to-mni</id>
+    <content type="html"><![CDATA[<p><img src="http://www.bic.mni.mcgill.ca/uploads/ServicesAtlases/mni_icbm152_sym_09a_small.jpg"></p>
+
+<p>MNI Mashup: Most innovative map or aggregation of information in the MNI 152 standard.</p>
+
+<!-- more -->
+
+
+<p>This challenge challenge is to be addressed entirely during the meeting using resources made openly available to the brain mapping community.</p>
+
+<p>Example projects:</p>
+
+<ul>
+<li>Aggregating standard MNI space 3D shape models of neuroanatomical structures</li>
+<li><p>"Dense brain information map". Given an (x,y,z,r) tell me everything you can about (x,y,z,r), especially including uncertainty of that information. Here are a few examples of information that could be returned:</p>
+
+<ul>
+<li>gene expression (and the uncertainty would be high if imputing and low if exactly at a probe location)</li>
+<li>cognitive atlas terms and therefore publications and derivatives associated with that location ( a la neurosynth)</li>
+<li>variation in cortical thickness</li>
+<li>functional connectivity</li>
+<li>likelihood of major fiber bundles in that location</li>
+<li>registration inconsistency/uncertainty</li>
+<li>cytoarchitecture variation (neuron types, etc.,.)</li>
+<li>associated disorders</li>
+<li>data from other species</li>
+</ul>
+</li>
+</ul>
+
+
+<p>Judging criteria:</p>
+
+<ul>
+<li>Scientific impact</li>
+<li>Commitment to open availability of the resulting resource</li>
+<li>Extensibility</li>
+<li>Inclusion of quantified uncertainty</li>
+</ul>
+
+
+<p>Rules</p>
+
+<ul>
+<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: hbm.hackathon@gmail.com</li>
+<li>Participants can use any computational resources available to them, but judging will take into account innovative use of cloud computing and how openly available the approach is (see Judging)</li>
+<li>At least one team leader/presenter must attend the meeting</li>
+<li>Off-site team members are allowed and encouraged, but will not be eligible for all resources made available to registered OHBM attendees (e.g., cloud computing credits)</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[OpenfMRI Now an HBM Hackathon Resource]]></title>
@@ -185,7 +242,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 
 <h4>Have an open human brain mapping resource you would like to have included?</h4>
 
-<p>Just contact us: <a href="&#x6d;&#x61;&#105;&#108;&#116;&#x6f;&#x3a;&#104;&#98;&#109;&#x2e;&#104;&#97;&#x63;&#x6b;&#x61;&#x74;&#x68;&#111;&#110;&#x40;&#103;&#x6d;&#x61;&#x69;&#108;&#x2e;&#99;&#x6f;&#x6d;">&#x68;&#98;&#109;&#x2e;&#x68;&#97;&#99;&#107;&#97;&#x74;&#104;&#111;&#x6e;&#64;&#x67;&#109;&#97;&#105;&#x6c;&#46;&#x63;&#111;&#109;</a></p>
+<p>Just contact us: <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#x3a;&#104;&#98;&#109;&#46;&#x68;&#x61;&#99;&#x6b;&#x61;&#x74;&#x68;&#x6f;&#110;&#x40;&#103;&#109;&#97;&#105;&#x6c;&#x2e;&#99;&#111;&#x6d;">&#104;&#x62;&#109;&#46;&#104;&#x61;&#99;&#x6b;&#97;&#116;&#x68;&#111;&#110;&#x40;&#x67;&#x6d;&#97;&#105;&#108;&#x2e;&#99;&#x6f;&#109;</a></p>
 
 <h4>Venue</h4>
 
@@ -264,7 +321,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 <p><strong>Rules</strong></p>
 
 <ul>
-<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: <a href="&#109;&#x61;&#105;&#108;&#x74;&#111;&#x3a;&#104;&#98;&#109;&#x2e;&#x68;&#x61;&#x63;&#107;&#x61;&#116;&#x68;&#x6f;&#110;&#64;&#103;&#x6d;&#97;&#105;&#108;&#x2e;&#99;&#x6f;&#x6d;">&#104;&#x62;&#109;&#46;&#104;&#x61;&#x63;&#x6b;&#97;&#x74;&#x68;&#x6f;&#110;&#64;&#103;&#109;&#x61;&#105;&#x6c;&#x2e;&#99;&#x6f;&#x6d;</a></li>
+<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: <a href="&#109;&#x61;&#105;&#x6c;&#116;&#111;&#x3a;&#104;&#x62;&#x6d;&#46;&#x68;&#x61;&#99;&#x6b;&#97;&#116;&#104;&#x6f;&#110;&#64;&#103;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#99;&#111;&#109;">&#104;&#98;&#x6d;&#46;&#104;&#97;&#x63;&#x6b;&#97;&#116;&#104;&#111;&#x6e;&#x40;&#103;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a></li>
 <li>Participants can use any computational resources available to them, but judging will take into account innovative use of cloud computing and how openly available the approach is (see Judging)</li>
 <li>At least one team leader/presenter must attend the meeting</li>
 <li>Off-site team members are allowed and encouraged, but will not be eligible for all resources made available to registered OHBM attendees (e.g., cloud computing credits)</li>
