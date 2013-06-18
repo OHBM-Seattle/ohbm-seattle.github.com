@@ -4,7 +4,7 @@
   <title><![CDATA[HBM Hackathon]]></title>
   <link href="http://ohbm-seattle.github.io/atom.xml" rel="self"/>
   <link href="http://ohbm-seattle.github.io/"/>
-  <updated>2013-06-17T13:23:33-07:00</updated>
+  <updated>2013-06-17T21:08:49-07:00</updated>
   <id>http://ohbm-seattle.github.io/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mindboggle 101: Manually labeled brain surfaces and volumes]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/06/17/mindboggle-101-manually-labeled-brain-surfaces-and-volumes/"/>
+    <updated>2013-06-17T17:03:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/06/17/mindboggle-101-manually-labeled-brain-surfaces-and-volumes</id>
+    <content type="html"><![CDATA[<p><img src="http://www.mindboggle.info/_static/mindboggle_logo_small.jpg"></p>
+
+<p>Mindboggle-101: Manually labeled brain surfaces and volumes</p>
+
+<!-- more -->
+
+
+<p>The <a href="http://www.mindboggle.info/data/">Mindboggle-101</a> dataset includes manually labeled anatomical regions for 101 healthy subjects.  The manually edited cortical labels follow sulcus landmarks according to the Desikan-Killiany-Tourville (DKT) protocol. The protocol, individually labeled brain images, optimal average surface and volume templates, and a surface Gaussian classifier atlas are all available for download and are described in the following <a href="http://www.frontiersin.org/Brain_Imaging_Methods/10.3389/fnins.2012.00171/full">article</a>:</p>
+
+<p>“101 labeled brain images and a consistent human cortical labeling protocol”
+Arno Klein, Jason Tourville. Frontiers in Brain Imaging Methods. 6:171. DOI: 10.3389/fnins.2012.00171</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The 3rd HBM Hackathon challenge: Resources Mapped to MNI Space]]></title>
@@ -241,7 +260,7 @@
 
 <h3>Contact:</h3>
 
-<p>The COINS developers are excited to support the OHBM Hackathon participants. Any requests, questions or feedback can be directed to <a href="&#x6d;&#x61;&#105;&#108;&#116;&#111;&#x3a;&#110;&#105;&#x40;&#x6d;&#x72;&#110;&#x2e;&#x6f;&#114;&#x67;">&#110;&#105;&#64;&#109;&#x72;&#110;&#46;&#111;&#114;&#103;</a>.</p>
+<p>The COINS developers are excited to support the OHBM Hackathon participants. Any requests, questions or feedback can be directed to <a href="&#109;&#97;&#105;&#108;&#x74;&#x6f;&#x3a;&#110;&#105;&#x40;&#x6d;&#x72;&#110;&#x2e;&#111;&#x72;&#103;">&#110;&#x69;&#x40;&#x6d;&#114;&#110;&#46;&#111;&#x72;&#x67;</a>.</p>
 ]]></content>
   </entry>
   
@@ -273,7 +292,7 @@
 
 <h3>Support</h3>
 
-<p>The staff of NITRC are available to assist users with issues (<strong><a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#x3a;&#x6e;&#105;&#116;&#114;&#105;&#x63;&#105;&#110;&#102;&#x6f;&#64;&#x6e;&#x69;&#x74;&#114;&#x63;&#x2e;&#111;&#x72;&#x67;">&#x6e;&#x69;&#x74;&#x72;&#105;&#99;&#x69;&#110;&#x66;&#111;&#x40;&#110;&#105;&#x74;&#114;&#99;&#46;&#111;&#x72;&#103;</a></strong>), and a comprehensive <a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:User_Guide_-_NITRC_Computational_Environment">Users Guide</a> and discussion forum dedicated to <a href="http://www.nitrc.org/forum/forum.php?thread_id=3897&amp;forum_id=3663">HBM Hackathon support</a>.</p>
+<p>The staff of NITRC are available to assist users with issues (<strong><a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#111;&#x3a;&#x6e;&#105;&#x74;&#114;&#105;&#x63;&#105;&#x6e;&#102;&#x6f;&#x40;&#110;&#105;&#x74;&#x72;&#99;&#x2e;&#111;&#114;&#x67;">&#x6e;&#x69;&#x74;&#x72;&#105;&#x63;&#105;&#110;&#x66;&#111;&#x40;&#110;&#x69;&#116;&#x72;&#x63;&#x2e;&#x6f;&#114;&#103;</a></strong>), and a comprehensive <a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:User_Guide_-_NITRC_Computational_Environment">Users Guide</a> and discussion forum dedicated to <a href="http://www.nitrc.org/forum/forum.php?thread_id=3897&amp;forum_id=3663">HBM Hackathon support</a>.</p>
 
 <h3>Conclusion</h3>
 
@@ -318,7 +337,7 @@
 <li>Complete the <strong><a href="http://www.humanconnectome.org/data/data-use-terms/index.html">HCP Registration</a></strong> and agree to the <strong><a href="http://www.humanconnectome.org/data/data-use-terms/open-access.html">HCP Open Access Data Use Terms</a></strong></li>
 <li>Complete the <strong><a href="http://www.humanbrainmapping.org/hackathon">HBM Hackathon Registration</a></strong></li>
 <li>Create an <strong><a href="http://aws.amazon.com/">Amazon Web Services Account</a></strong></li>
-<li>Email <strong><a href="&#109;&#97;&#105;&#x6c;&#x74;&#111;&#58;&#104;&#x62;&#109;&#46;&#104;&#x61;&#99;&#107;&#97;&#116;&#x68;&#x6f;&#110;&#x40;&#x67;&#109;&#x61;&#105;&#108;&#46;&#99;&#111;&#109;">&#104;&#x62;&#109;&#46;&#104;&#x61;&#99;&#107;&#97;&#x74;&#104;&#111;&#110;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;</a></strong> with your HCP and AWS email address(es)</li>
+<li>Email <strong><a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#111;&#58;&#104;&#98;&#x6d;&#x2e;&#104;&#x61;&#99;&#107;&#x61;&#x74;&#104;&#111;&#110;&#x40;&#103;&#109;&#x61;&#x69;&#108;&#x2e;&#99;&#x6f;&#109;">&#104;&#98;&#109;&#x2e;&#104;&#x61;&#x63;&#107;&#x61;&#116;&#104;&#x6f;&#110;&#x40;&#x67;&#109;&#97;&#x69;&#108;&#46;&#x63;&#x6f;&#109;</a></strong> with your HCP and AWS email address(es)</li>
 </ol>
 
 
@@ -344,7 +363,7 @@ May 1, 2013</p></blockquote>
 
 <p>Ready to start downloading? Make sure you&#8217;ve completed the <a href="http://www.humanconnectome.org/data/data-use-terms/index.html">HCP registration</a> and <a href="http://aws.amazon.com/">created an account with AWS</a>.</p>
 
-<p>Next, send an email to <strong><a href="&#109;&#x61;&#x69;&#108;&#x74;&#x6f;&#58;&#x68;&#x62;&#x6d;&#x2e;&#104;&#x61;&#x63;&#107;&#x61;&#x74;&#104;&#x6f;&#x6e;&#64;&#103;&#109;&#97;&#x69;&#x6c;&#46;&#x63;&#x6f;&#109;">&#x68;&#x62;&#x6d;&#46;&#x68;&#97;&#99;&#x6b;&#x61;&#x74;&#x68;&#111;&#x6e;&#64;&#x67;&#109;&#97;&#105;&#108;&#x2e;&#99;&#111;&#109;</a></strong> with your HCP and AWS email address(es).</p>
+<p>Next, send an email to <strong><a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#111;&#58;&#104;&#98;&#109;&#46;&#x68;&#97;&#x63;&#x6b;&#x61;&#x74;&#x68;&#x6f;&#110;&#x40;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#99;&#x6f;&#109;">&#104;&#98;&#x6d;&#x2e;&#x68;&#97;&#x63;&#x6b;&#97;&#116;&#104;&#x6f;&#x6e;&#64;&#103;&#109;&#x61;&#x69;&#x6c;&#46;&#x63;&#111;&#109;</a></strong> with your HCP and AWS email address(es).</p>
 
 <p>We will use your HCP and AWS email address(es) to:</p>
 
@@ -610,7 +629,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 
 <h4>Have an open human brain mapping resource you would like to have included?</h4>
 
-<p>Just contact us: <a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x68;&#x62;&#x6d;&#x2e;&#104;&#x61;&#x63;&#107;&#97;&#x74;&#x68;&#111;&#110;&#x40;&#103;&#109;&#x61;&#x69;&#108;&#x2e;&#99;&#x6f;&#x6d;">&#104;&#98;&#x6d;&#46;&#x68;&#97;&#x63;&#107;&#97;&#116;&#x68;&#x6f;&#x6e;&#64;&#x67;&#x6d;&#97;&#105;&#108;&#x2e;&#99;&#x6f;&#x6d;</a></p>
+<p>Just contact us: <a href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#58;&#104;&#98;&#x6d;&#46;&#x68;&#x61;&#99;&#107;&#97;&#116;&#104;&#111;&#x6e;&#x40;&#103;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#111;&#109;">&#x68;&#98;&#x6d;&#x2e;&#104;&#97;&#x63;&#107;&#97;&#x74;&#104;&#x6f;&#110;&#x40;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#111;&#109;</a></p>
 
 <h4>Venue</h4>
 
@@ -689,7 +708,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 <p><strong>Rules</strong></p>
 
 <ul>
-<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#111;&#58;&#x68;&#x62;&#109;&#x2e;&#x68;&#x61;&#x63;&#107;&#97;&#x74;&#104;&#x6f;&#x6e;&#x40;&#103;&#109;&#97;&#105;&#108;&#46;&#x63;&#x6f;&#x6d;">&#x68;&#98;&#109;&#x2e;&#x68;&#97;&#99;&#x6b;&#x61;&#x74;&#x68;&#111;&#110;&#64;&#103;&#109;&#97;&#x69;&#108;&#46;&#99;&#111;&#109;</a></li>
+<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: <a href="&#109;&#x61;&#x69;&#108;&#116;&#111;&#58;&#104;&#98;&#x6d;&#x2e;&#x68;&#x61;&#x63;&#107;&#x61;&#116;&#104;&#x6f;&#x6e;&#64;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#99;&#x6f;&#x6d;">&#104;&#x62;&#x6d;&#x2e;&#x68;&#x61;&#99;&#107;&#x61;&#116;&#x68;&#111;&#x6e;&#64;&#103;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#109;</a></li>
 <li>Participants can use any computational resources available to them, but judging will take into account innovative use of cloud computing and how openly available the approach is (see Judging)</li>
 <li>At least one team leader/presenter must attend the meeting</li>
 <li>Off-site team members are allowed and encouraged, but will not be eligible for all resources made available to registered OHBM attendees (e.g., cloud computing credits)</li>
