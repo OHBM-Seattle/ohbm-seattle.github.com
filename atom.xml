@@ -4,7 +4,7 @@
   <title><![CDATA[HBM Hackathon]]></title>
   <link href="http://ohbm-seattle.github.io/atom.xml" rel="self"/>
   <link href="http://ohbm-seattle.github.io/"/>
-  <updated>2013-06-18T08:56:47-07:00</updated>
+  <updated>2013-06-25T23:46:06-07:00</updated>
   <id>http://ohbm-seattle.github.io/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
@@ -12,6 +12,85 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Contest Winners Announced!]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/06/25/contest-winners-announced/"/>
+    <updated>2013-06-25T17:39:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/06/25/contest-winners-announced</id>
+    <content type="html"><![CDATA[<p><img src="http://ohbm-seattle.github.io/images/hackathon-banner.png"></p>
+
+<p>Congratulations to the winners of the HBM Hackathon Competition!</p>
+
+<p><strong>Challenge 1:</strong> No Sound Consensous<br/>
+<strong>Challenge 2:</strong> SCI<br/>
+<strong>Challenge 3:</strong> MindBoggle-102</p>
+
+<!-- more -->
+
+
+<p>The winners of the HBM Hackathon Contest brought together multi-disciplinary teams to deliver excellent responses to the three challenges. Below is a list of the winning teams and their members for each category along with the submitted abstracts, presentations, and demo links. Join me in congratulating our winners and enjoy!</p>
+
+<h3>Challenge 1. Best imaging and gene expression relationship discovered via integration of imaging data with the Allen Human Brain Atlas.</h3>
+
+<p><strong>Team &#8220;No Sound Consensus&#8221;</strong> - Rhodri Cusack, Mark Daley, Charlotte Herzmann, Annika Linke, Jonathan Peelle, Conor Wild, Leire Zubiaurre-Elorza</p>
+
+<ul>
+<li><strong><a href="http://ohbm-seattle.github.io/images/no_sound_consensus_thursday_10mins.pdf">Presentation Link</a></strong></li>
+<li><strong><a href="http://www.cusacklab.org/nsc">Visualization Demo</a></strong></li>
+<li><strong>Abstract:</strong></li>
+</ul>
+
+
+<blockquote><p>There is little consensus on the parcellation of human auditory cortex, especially in regards to auditory-related or auditory association areas beyond primary auditory cortex; in contrast, there is substantial agreement on the functional parcellation of visual cortex. This might be because: fewer scientists study the auditory system and the key analyses are still lacking; auditory regions are smaller and/or too variable across individuals; or because the auditory system is fundamentally less modular, perhaps because the statistics of environmental sounds are such that processing is best implemented in a distributed monolithic system. Our hackathon project had two overarching goals:  (1) to quantify modularity in auditory and visual systems; and (2) if appropriate, to derive a parcellation of the auditory system. As any single type of data is subject to biases, three types were brought together by an international and multidisciplinary team of scientists using multiple packages and programming languages. We first defined broad auditory and visual seed regions of interest using an open-source meta-analytic approach (i.e., http://neurosynth.org/) combined with anatomical masking. We then characterized the signature of connectivity of each voxel in these seed regions using diffusion and resting state data provided by the Human Connectome Project. Graph theory analyses were then applied to derive clusters of voxels (i.e., modules) that exhibited similar patterns of anatomical and functional connectivity, and to compare the modularity of auditory and visual cortices. Modularity of auditory cortex was found to be similar to that of visual cortex, suggesting that across individuals this system appears to have multiple distinct sub-regions. Parcellations in all seed regions showed consistency across individuals and modalities, and allowed us to derive group and grand (i.e., multi-modal) parcellations. Finally, using the Allen Brain Atlas we found that gene expression was more similar within our parcellations for visual &#8211; but not auditory &#8211;  cortex. In summary, auditory cortex was found to be modular and to show consistency across individuals, so that reliable group parcellations were be derived. Finally, we developed a web tool that can be used to browse our parcellations and the connectivity of each module. We estimate that our entry has used around 1 year’s worth of processing time of the fastest processing cores in the Amazon cloud, and that much of team was sleep deprived for the last month.</p></blockquote>
+
+<h3>Challenge 2. Best neural systems model or visualization based on large-scale integration of resting state fMRI data with other HBM Hackathon accessible datasets.</h3>
+
+<p><strong>Team &#8220;SCI&#8221;</strong> - Miriah Meyer, Tom Fletcher, Sam Gerber, Sean McKenna, Wei Liu, Brandon Zielinski, Kris Zygmunt</p>
+
+<ul>
+<li><strong><a href="http://ohbm-seattle.github.io/images/iCorrPlot.pdf">Presentation Link</a></strong></li>
+<li><strong>Abstract:</strong></li>
+</ul>
+
+
+<blockquote><p>I will be presenting a tool that enables the visualization and exploration of the gene expression data in both the correlation space and MNI space.  By navigating and visualizing in both spaces concurrently, the gene expression data can be explored and understood more completely, helping to generate hypotheses for further testing.</p></blockquote>
+
+<h3>Challenge 3. MNI Mashup: Most innovative map or aggregation of information in the MNI 152 standard.</h3>
+
+<p><strong>Team &#8220;MindBoggle-102&#8221;</strong> - Arno Klein, Jason Tourvillle, Jay Bohland, Rich Stoner</p>
+
+<ul>
+<li><strong><a href="http://ohbm-seattle.github.io/images/HBM2013_Hackathon_Mindboggle102Team.pdf">Presentation Link</a></strong></li>
+<li><strong><a href="http://bit.ly/12e5ftp">Visualization Demo</a></strong></li>
+<li><strong>Abstract:</strong></li>
+</ul>
+
+
+<blockquote><ul>
+<li>Provide anatomical labels, sulcal features, and shape information for 101 brains in MNI152 space.</li>
+<li>Manually label, extract features, and analyze the shape of the cortex of an Allen human brain.</li>
+<li>Create a browser-based application to display region-specific gene expression data.</li>
+</ul>
+
+
+<p>Mash-up components:</p>
+
+<ol>
+<li>Allen Human Brain T1 image and gene expression data</li>
+<li>DKT cortical labeling protocol</li>
+<li>Mindboggle-101 set of brains manually labeled with the DKT protocol</li>
+<li>Mindboggle software for feature extraction, identification, and shape analysis</li>
+<li>Web framework for visualization</li>
+<li>MNI152 template</li>
+</ol>
+
+
+<p>Yesterday, we extracted and computed shape measures on all 101 brains in the Mindboggle-101 data set, and are doing the same for the Allen brain right now. Today, we propose to manually label the Allen brain using the DKT protocol and create a browser-based application to enable a user to select a labeled region in the Allen brain and display gene expression data for that region.</p></blockquote>
+
+<h3>Congratulations!</h3>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[INCF sponsors the HBM Hackathon]]></title>
@@ -276,7 +355,7 @@ Arno Klein, Jason Tourville. Frontiers in Brain Imaging Methods. 6:171. DOI: 10.
 
 <h3>Contact:</h3>
 
-<p>The COINS developers are excited to support the OHBM Hackathon participants. Any requests, questions or feedback can be directed to <a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#111;&#58;&#x6e;&#105;&#x40;&#109;&#114;&#110;&#46;&#111;&#114;&#103;">&#110;&#105;&#64;&#109;&#114;&#110;&#x2e;&#x6f;&#x72;&#103;</a>.</p>
+<p>The COINS developers are excited to support the OHBM Hackathon participants. Any requests, questions or feedback can be directed to <a href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#58;&#x6e;&#x69;&#x40;&#x6d;&#114;&#x6e;&#x2e;&#x6f;&#114;&#103;">&#110;&#x69;&#64;&#x6d;&#114;&#x6e;&#46;&#x6f;&#x72;&#x67;</a>.</p>
 ]]></content>
   </entry>
   
@@ -308,7 +387,7 @@ Arno Klein, Jason Tourville. Frontiers in Brain Imaging Methods. 6:171. DOI: 10.
 
 <h3>Support</h3>
 
-<p>The staff of NITRC are available to assist users with issues (<strong><a href="&#109;&#x61;&#x69;&#108;&#x74;&#x6f;&#x3a;&#x6e;&#105;&#x74;&#114;&#x69;&#x63;&#105;&#110;&#102;&#111;&#64;&#110;&#105;&#x74;&#x72;&#99;&#x2e;&#111;&#x72;&#x67;">&#110;&#x69;&#116;&#114;&#105;&#x63;&#x69;&#110;&#102;&#111;&#x40;&#110;&#x69;&#x74;&#114;&#99;&#46;&#x6f;&#x72;&#103;</a></strong>), and a comprehensive <a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:User_Guide_-_NITRC_Computational_Environment">Users Guide</a> and discussion forum dedicated to <a href="http://www.nitrc.org/forum/forum.php?thread_id=3897&amp;forum_id=3663">HBM Hackathon support</a>.</p>
+<p>The staff of NITRC are available to assist users with issues (<strong><a href="&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#58;&#x6e;&#x69;&#x74;&#114;&#x69;&#99;&#105;&#x6e;&#102;&#111;&#x40;&#x6e;&#x69;&#x74;&#114;&#99;&#x2e;&#111;&#x72;&#103;">&#x6e;&#105;&#x74;&#x72;&#x69;&#x63;&#x69;&#x6e;&#102;&#111;&#x40;&#x6e;&#x69;&#x74;&#114;&#x63;&#x2e;&#111;&#114;&#x67;</a></strong>), and a comprehensive <a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:User_Guide_-_NITRC_Computational_Environment">Users Guide</a> and discussion forum dedicated to <a href="http://www.nitrc.org/forum/forum.php?thread_id=3897&amp;forum_id=3663">HBM Hackathon support</a>.</p>
 
 <h3>Conclusion</h3>
 
@@ -353,7 +432,7 @@ Arno Klein, Jason Tourville. Frontiers in Brain Imaging Methods. 6:171. DOI: 10.
 <li>Complete the <strong><a href="http://www.humanconnectome.org/data/data-use-terms/index.html">HCP Registration</a></strong> and agree to the <strong><a href="http://www.humanconnectome.org/data/data-use-terms/open-access.html">HCP Open Access Data Use Terms</a></strong></li>
 <li>Complete the <strong><a href="http://www.humanbrainmapping.org/hackathon">HBM Hackathon Registration</a></strong></li>
 <li>Create an <strong><a href="http://aws.amazon.com/">Amazon Web Services Account</a></strong></li>
-<li>Email <strong><a href="&#109;&#97;&#105;&#x6c;&#116;&#111;&#58;&#x68;&#x62;&#x6d;&#x2e;&#104;&#x61;&#99;&#107;&#x61;&#x74;&#104;&#x6f;&#110;&#64;&#103;&#109;&#97;&#x69;&#x6c;&#46;&#99;&#111;&#x6d;">&#104;&#x62;&#x6d;&#x2e;&#104;&#x61;&#x63;&#107;&#x61;&#x74;&#x68;&#111;&#x6e;&#64;&#103;&#109;&#x61;&#x69;&#108;&#46;&#99;&#111;&#109;</a></strong> with your HCP and AWS email address(es)</li>
+<li>Email <strong><a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#x6f;&#58;&#104;&#x62;&#x6d;&#x2e;&#x68;&#97;&#99;&#107;&#97;&#x74;&#104;&#111;&#110;&#x40;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#46;&#99;&#111;&#109;">&#x68;&#98;&#x6d;&#x2e;&#x68;&#97;&#99;&#x6b;&#97;&#x74;&#104;&#x6f;&#x6e;&#64;&#x67;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#109;</a></strong> with your HCP and AWS email address(es)</li>
 </ol>
 
 
@@ -379,7 +458,7 @@ May 1, 2013</p></blockquote>
 
 <p>Ready to start downloading? Make sure you&#8217;ve completed the <a href="http://www.humanconnectome.org/data/data-use-terms/index.html">HCP registration</a> and <a href="http://aws.amazon.com/">created an account with AWS</a>.</p>
 
-<p>Next, send an email to <strong><a href="&#109;&#97;&#x69;&#108;&#x74;&#111;&#58;&#104;&#98;&#x6d;&#x2e;&#x68;&#x61;&#x63;&#x6b;&#x61;&#116;&#104;&#111;&#110;&#x40;&#103;&#109;&#x61;&#x69;&#x6c;&#46;&#x63;&#x6f;&#109;">&#x68;&#98;&#x6d;&#x2e;&#104;&#97;&#x63;&#107;&#97;&#x74;&#104;&#x6f;&#x6e;&#x40;&#103;&#109;&#x61;&#105;&#108;&#x2e;&#99;&#x6f;&#109;</a></strong> with your HCP and AWS email address(es).</p>
+<p>Next, send an email to <strong><a href="&#109;&#97;&#x69;&#x6c;&#116;&#x6f;&#58;&#104;&#98;&#109;&#x2e;&#104;&#x61;&#x63;&#107;&#97;&#x74;&#104;&#111;&#110;&#x40;&#103;&#109;&#97;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;">&#x68;&#x62;&#x6d;&#46;&#104;&#x61;&#x63;&#107;&#97;&#116;&#104;&#x6f;&#110;&#x40;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#x6d;</a></strong> with your HCP and AWS email address(es).</p>
 
 <p>We will use your HCP and AWS email address(es) to:</p>
 
@@ -645,7 +724,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 
 <h4>Have an open human brain mapping resource you would like to have included?</h4>
 
-<p>Just contact us: <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#x6f;&#58;&#104;&#x62;&#x6d;&#x2e;&#x68;&#97;&#99;&#107;&#97;&#x74;&#x68;&#111;&#x6e;&#64;&#x67;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x68;&#98;&#x6d;&#x2e;&#x68;&#x61;&#x63;&#x6b;&#97;&#116;&#x68;&#x6f;&#x6e;&#x40;&#x67;&#109;&#x61;&#x69;&#x6c;&#x2e;&#99;&#111;&#x6d;</a></p>
+<p>Just contact us: <a href="&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#58;&#104;&#x62;&#109;&#46;&#x68;&#97;&#99;&#107;&#97;&#x74;&#x68;&#111;&#110;&#64;&#103;&#109;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;">&#104;&#98;&#109;&#46;&#x68;&#x61;&#99;&#x6b;&#97;&#x74;&#x68;&#111;&#x6e;&#x40;&#103;&#x6d;&#97;&#x69;&#x6c;&#46;&#x63;&#x6f;&#x6d;</a></p>
 
 <h4>Venue</h4>
 
@@ -724,7 +803,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 <p><strong>Rules</strong></p>
 
 <ul>
-<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: <a href="&#109;&#97;&#105;&#x6c;&#x74;&#x6f;&#58;&#104;&#98;&#109;&#x2e;&#x68;&#x61;&#x63;&#107;&#97;&#x74;&#104;&#x6f;&#110;&#64;&#x67;&#x6d;&#97;&#105;&#108;&#x2e;&#99;&#x6f;&#x6d;">&#x68;&#x62;&#x6d;&#x2e;&#104;&#x61;&#99;&#107;&#x61;&#116;&#104;&#x6f;&#x6e;&#x40;&#103;&#109;&#x61;&#x69;&#108;&#x2e;&#x63;&#111;&#109;</a></li>
+<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#x3a;&#x68;&#98;&#x6d;&#46;&#104;&#97;&#x63;&#x6b;&#x61;&#x74;&#104;&#x6f;&#x6e;&#x40;&#103;&#109;&#x61;&#105;&#x6c;&#46;&#x63;&#x6f;&#x6d;">&#104;&#x62;&#x6d;&#46;&#x68;&#x61;&#99;&#107;&#x61;&#116;&#104;&#x6f;&#x6e;&#64;&#103;&#109;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;</a></li>
 <li>Participants can use any computational resources available to them, but judging will take into account innovative use of cloud computing and how openly available the approach is (see Judging)</li>
 <li>At least one team leader/presenter must attend the meeting</li>
 <li>Off-site team members are allowed and encouraged, but will not be eligible for all resources made available to registered OHBM attendees (e.g., cloud computing credits)</li>
