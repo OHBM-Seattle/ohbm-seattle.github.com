@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Challenges | HBM Hackathon]]></title>
+  <link href="http://ohbm-seattle.github.io/blog/categories/challenges/atom.xml" rel="self"/>
+  <link href="http://ohbm-seattle.github.io/"/>
+  <updated>2013-06-26T07:24:33-07:00</updated>
+  <id>http://ohbm-seattle.github.io/</id>
+  <author>
+    <name><![CDATA[OHBM Organizing Committee]]></name>
+    <email><![CDATA[hbm.hackathon@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The 3rd HBM Hackathon challenge: Resources Mapped to MNI Space]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/06/17/the-3rd-challenge-and-mapping-to-mni/"/>
+    <updated>2013-06-17T07:10:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/06/17/the-3rd-challenge-and-mapping-to-mni</id>
+    <content type="html"><![CDATA[<p><img src="http://www.bic.mni.mcgill.ca/uploads/ServicesAtlases/mni_icbm152_sym_09a_small.jpg"></p>
+
+<p>MNI Mashup: Most innovative map or aggregation of information in the MNI 152 standard.</p>
+
+<!-- more -->
+
+
+<p>This challenge challenge is to be addressed entirely during the meeting using resources made openly available to the brain mapping community.</p>
+
+<p>Example projects:</p>
+
+<ul>
+<li>Aggregating standard MNI space 3D shape models of neuroanatomical structures</li>
+<li><p>"Dense brain information map". Given an (x,y,z,r) tell me everything you can about (x,y,z,r), especially including uncertainty of that information. Here are a few examples of information that could be returned:</p>
+
+<ul>
+<li>gene expression (and the uncertainty would be high if imputing and low if exactly at a probe location)</li>
+<li>cognitive atlas terms and therefore publications and derivatives associated with that location ( a la neurosynth)</li>
+<li>variation in cortical thickness</li>
+<li>functional connectivity</li>
+<li>likelihood of major fiber bundles in that location</li>
+<li>registration inconsistency/uncertainty</li>
+<li>cytoarchitecture variation (neuron types, etc.,.)</li>
+<li>associated disorders</li>
+<li>data from other species</li>
+</ul>
+</li>
+</ul>
+
+
+<p>Judging criteria:</p>
+
+<ul>
+<li>Scientific impact</li>
+<li>Commitment to open availability of the resulting resource</li>
+<li>Extensibility</li>
+<li>Inclusion of quantified uncertainty</li>
+</ul>
+
+
+<p>Rules</p>
+
+<ul>
+<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: hbm.hackathon@gmail.com</li>
+<li>Participants can use any computational resources available to them, but judging will take into account innovative use of cloud computing and how openly available the approach is (see Judging)</li>
+<li>At least one team leader/presenter must attend the meeting</li>
+<li>Off-site team members are allowed and encouraged, but will not be eligible for all resources made available to registered OHBM attendees (e.g., cloud computing credits)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[OpenfMRI Now an HBM Hackathon Resource]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/04/22/openfmri-now-an-hbm-hackathon-resource/"/>
+    <updated>2013-04-22T14:28:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/04/22/openfmri-now-an-hbm-hackathon-resource</id>
+    <content type="html"><![CDATA[<p><img src="https://openfmri.org/sites/all/themes/openfmri/logo.png" title="height=150 &#34;OpenfMRI&#34;" alt="height=150 &#34;OpenfMRI&#34;"></p>
+
+<p>The <a href="http://openfmri.org">OpenfMRI</a> project provides raw and processed task fMRI datasets for use in re-analysis and mega-analysis that are now Cloud accessible.</p>
+
+<!-- more -->
+
+
+<h4>Background</h4>
+
+<p>Currently the OpenfMRI database contains data from 18 studies (totaling 374 scanning sessions) across a wide range of different cognitive task domains, including: visual perception (object recognition, mirror reading), language processing (semantic judgments, rhyme judgments, pseudoword reading), working memory (tone counting, 1-back), cognitive control (stop signal, flanker, and Simon tasks), learning (category learning), decision making (gambling task, balloon analog risk task), memory encoding emotion regulation (reappraisal task), and social perception (false belief task).</p>
+
+<p>More details about these datasets can be obtained from <a href="http://openfmri.org/data-sets">http://openfmri.org/data-sets</a>. The data will also be made available via AWS.</p>
+
+<h4>Processing</h4>
+
+<p>The data have been preprocessed and analyzed through a full group-level fMRI analysis, using an automated FSL/Freesurfer-based processing stream developed specifically for this project.  The code for this analysis stream is available at <a href="https://github.com/poldrack/openfmri">https://github.com/poldrack/openfmri</a>.  In addition, a nipype pipeline for this dataset has been developed by Satra Ghosh and is available at <a href="http://www.mit.edu/~satra/nipype-nightly/users/examples/fmri_openfmri.html">http://www.mit.edu/~satra/nipype-nightly/users/examples/fmri_openfmri.html</a>.</p>
+
+<h4>Example Responses to Challenges</h4>
+
+<p><strong>Challenge #1:</strong> Examine whether different task-relevant networks related to patterns of gene expression in the <a href="http://human.brain-map.org">Allen Human Brain Atlas</a>.</p>
+
+<p><strong>Challenge #2:</strong> Integrate the resting state data with task data from the OpenfMRI database to identify the overlap and distinction between resting state networks and task-based networks.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The National Database for Autism Research Data Dive]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/04/18/the-national-database-for-autism-research-data-dive/"/>
+    <updated>2013-04-18T13:02:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/04/18/the-national-database-for-autism-research-data-dive</id>
+    <content type="html"><![CDATA[<p><img src="http://ndar.nih.gov/images/ndar/ndar.png" title="&#34;NDAR&#34;" alt="&#34;NDAR&#34;">
+This HBM Hackathon accessible repository is an excellent resource for finding significant relationships amongst neuroimaging, clinical, and –omics data within the National Database for Autism Research (<a href="http://ndar.nih.gov">NDAR</a>).</p>
+
+<!-- more -->
+
+
+<h4>Background</h4>
+
+<p><a href="http://ndar.nih.gov">NDAR</a> is an NIH-funded research data repository that aims to accelerate progress in autism spectrum disorders (ASD) research through data sharing, data harmonization, and the reporting of research results. NDAR is a restricted access data repository, offering a wealth of data related to human subjects research in autism.  Applying for access prior to the OHBM hack event is essential.  Additionally, it serves as a scientific community platform to multiple other research repositories, allowing for aggregation and secondary analysis of clinically captured research data.</p>
+
+<h4>Data and Tools</h4>
+
+<p>Continually updated through the contributions of primary researchers, NDAR provides authorized researchers access to contemporary relevant raw data in a relatively short amount of time after its collection.  The database currently is sharing data on <strong>48,135 individuals</strong> spread over <strong>64,335 subject / age time points</strong> across hundreds of clinical, omics, and imaging data structures harmonized using a common data dictionary and a common subject identifier (see <a href="http://ndar.nih.gov/ndar_data_dictionary.html">NDAR data dictionary</a>).  In addition to NDAR, autism data from the Autism Genetic Research Exchange, Interactive Autism Network, the Autism Tissue Program, and the normative Pediatric MRI data repository are also available, but also require approval.</p>
+
+<h4>Details</h4>
+
+<p>NDAR provides simple cohort selection/filtering on a variety of scores and types of data available at <a href="http://ndar.nih.gov/query_data.html">http://ndar.nih.gov/query_data.html</a>.  Data selected can be downloaded or pre-loaded onto an Amazon EC2 instance for evaluation using the <a href="http://www.nitrc.org/ce-forum">NITRC Computational Environment</a>, <a href="http://neuro.debian.net">NeuroDebian</a> or other available tool sets. NDAR’s rich datasets are stored in Amazon’s S3, which facilitates parallel processing and better transfer rates.</p>
+
+<p>Download packages from NDAR include a single, tab-delimited text file for each data structure received, as well as any related files (e.g. imaging or omics) and a “Create Amazon RDS database” capability scheduled for May 2013.</p>
+
+<h4>Getting Started</h4>
+
+<p>NDAR is a restricted access data repository.  Review what’s available for download from <a href="http://ndar.nih.gov/query_data.html">http://ndar.nih.gov/query_data.html</a> and apply for access at <a href="http://ndar.nih.gov/ndarpublicweb/access.html">http://ndar.nih.gov/ndarpublicweb/access.html</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Challenge #1: Allen Human Brain Atlas Integration]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/04/15/challenge-number-1-allen-human-brain-atlas-integration/"/>
+    <updated>2013-04-15T12:00:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/04/15/challenge-number-1-allen-human-brain-atlas-integration</id>
+    <content type="html"><![CDATA[<p><img src="http://www.alleninstitute.org/Assets/images/common/logo_institute.png" title="&#34;Allen Institute for Brain Science&#34;" alt="&#34;Allen Institute for Brain Science&#34;">
+For this challenge, you will try to identify the best relationship between
+imaging data and gene expression data in the Allen Human Brain Atlas.</p>
+
+<!-- more -->
+
+
+<h4>Background</h4>
+
+<p>The goal of the Allen Human Brain Atlas is to create a comprehensive map of
+transcript usage across the entire adult brain, with the emphasis on anatomically complete coverage in a small number of high-quality, clinically unremarkable brains profiled with DNA microarrays for quantitative gene-level transcriptome coverage. Further, structural brain imaging data were obtained from each individual to visualize gene expression data in its native 3D anatomical coordinate space, and to allow correlations between imaging and transcriptome modalities.</p>
+
+<h4>Data and Tools</h4>
+
+<p>The Atlas consists of microarray profiles of 3702 neuroanatomically precise
+subdivisions sampled over six individuals (5 males, 1 female). Each gene
+expression profile contains information for over 58,000 gene probes with
+93% of known genes represented by at least 2 probes. Sample locations were
+mapped back into the native brain MRI coordinates and subsequently to Montreal Neurological Institute (MNI) coordinate space.</p>
+
+<p>These data are freely accessible via the Allen Brain Atlas data portal (<a href="http://human.brain-map.org">http://human.brain-map.org</a>).  They have also been mirrored using Amazon's AWS S3 cloud storage <a href="https://s3.amazonaws.com/Human-Brain-Atlas/index.html">here</a>.</p>
+
+<p>Use the online tools to visualize the expression data as heatmaps or projected into 3D anatomical context. An integrated data service allows users to perform differential and correlative searches to discover genes of interest.</p>
+
+<p>For more detail, start with a <a href="http://www.brain-map.org/tutorials/index">guided overview</a> or see the recent <a href="http://www.nature.com/nature/journal/v489/n7416/full/nature11405.html">publication</a> in Nature.</p>
+
+<h4>Details</h4>
+
+<p>The data is divided into separate .zip files each of the 6 donors. The zip file contains:</p>
+
+<ul>
+<li>SampleAnnot.csv: describes every microarray sample. Structures and MNI coordinates are here.</li>
+<li>MicroarrayExpression.csv: normalized expression values for all samples and probes.</li>
+<li>Probes.csv: description of the probes and their genes.</li>
+<li>Ontology.csv: all structures in the hierarchical ontology. The 'structure_id_path' column describes the parent-child relationship.</li>
+<li>Contents.txt: a more detailed description of the .zip contents.</li>
+</ul>
+
+
+<h4>Getting Started</h4>
+
+<p>We're looking for the best relationship between gene expression in the Atlas and imaging data set. You are not restricted to any particular imaging data set.</p>
+
+<p>This <a href="http://api.brain-map.org/examples/spm/index.html">sample Matlab code</a> that might be a good place to start. It takes one of the example data sets from the Statistical Parametric Mapping (SPM) package, samples the image at all of the microarray sample MNI coordinates, and correlates the sampled values to gene expression values.</p>
+
+<p>You can also look at this <a href="https://github.com/AllenBrainAtlas/human-analysis-examples">sample Python code</a>. It uses numpy to correlate the gene expression values of all of the samples to each other for one donor. There is also some code for picking one probe per gene. It chooses the probe that is most correlated to the other probes for that gene.</p>
+
+<p>For inspiration, consider reading this study that integrates imaging and gene expression data:</p>
+
+<p>Mueller K, Sacher J, Arelin K, Holiga S, Kratzsch J, et al. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3565188/">Overweight and obesity are associated with neuronal injury in the human cerebellum and hippocampus in young adults: a combined MRI, serum marker and gene expression study.</a> Transl Psychiatry 2: e200. doi:10.1038/tp.2012.121.</p>
+
+<p>Good luck!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[HBM Hackathon Announced!]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/04/15/hbm-hackathon-announced/"/>
+    <updated>2013-04-15T00:00:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/04/15/hbm-hackathon-announced</id>
+    <content type="html"><![CDATA[<p><img src="/images/HBM_Hackthon_logo_small.png" width="200" height="232" title="&#34;HBM Hackathon&#34;" alt="&#34;HBM Hackathon&#34;">
+The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackathon</strong>, a meeting-long analysis and resource building competition designed to accelerate the connection between open neuroscience and cloud computing.</p>
+
+<!-- more -->
+
+
+<h4>Background</h4>
+
+<p>OHBM 2013 occurs in a city at the forefront of open neuroscience and information technology.  With support from the <a href="http://www.alleninstitute.org" title="Allen Institute for Brain Science">Allen Institute for Brain Science</a>, <a href="http://aws.amazon.com" title="Amazon Web Services">Amazon Web Services</a>, and numerous other contributors, the 2013 meeting in Seattle will include an integrated hack room and associated cloud-computing contest called the <strong>HBM Hackathon</strong>. The hackathon will include a venue on the main poster/exhibit floor space, and prepared cloud-accessible data and software. These resources will be available to participants beginning two months ahead of the meeting, with in-kind support from Amazon Web Services in the form of <strong>$100 in cloud computing credits</strong> that will be made available to all registered HBM Hackathon participants attending OHBM 2013.</p>
+
+<h4>HBM Hackathon Information</h4>
+
+<ul>
+<li><strong><a href="http://humanbrainmapping.org/hackathon">Registration</a></strong></li>
+<li><strong><a href="http://ohbm-seattle.github.io/">Website and Blog</a></strong></li>
+<li><strong><a href="http://www.linkedin.com/groups/HBM-Hackathon-4957800">Discussion Group</a></strong></li>
+</ul>
+
+
+<h4>Sponsors</h4>
+
+<p>HBM Hackathon <em>major sponsors</em> include the Allen Institute for Brain Science and Amazon Web Services.</p>
+
+<p>There are a number of <em>secondary sponsors</em> including:</p>
+
+<ul>
+<li>NITRC - <a href="http://www.nitrc.org" title="NITRC">Neuroimaging Informatics Tools and Resources Clearinghouse</a></li>
+<li>IBIC - <a href="http://www.ibic.washington.edu" title="IBIC">University of Washington Integrated Brain Imaging Center</a></li>
+<li>INCF - <a href="http://www.incf.org" title="INCF">International Neuroinformatics Coordinating Facility</a></li>
+<li>BIRN - <a href="http://www.birncommunity.org" title="BIRN">Biomedical Informatics Research Network</a></li>
+<li>NDAR - <a href="http://ndar.nih.gov" title="NDAR">National Database for Autism Research</a></li>
+<li>LONI - <a href="http://www.loni.ucla.edu" title="LONI">Laboratory of NeuroImaging</a></li>
+<li>HCP - <a href="http://www.humanconnectome.org" title="Human Connectome Project">Human Connectome Project</a></li>
+<li><a href="http://www.frontiersin.org/Brain_Imaging_Methods" title="Frontiers in Brain Imaging Methods">Frontiers in Brain Imaging Methods</a></li>
+<li>NIPY - <a href="http://nipy.sourceforge.net" title="NIPY">Neuroimaging in Python</a></li>
+<li><a href="http://neuro.debian.net" title="NeuroDebian">NeuroDebian</a></li>
+<li><a href="http://github.com" title="GitHub">GitHub</a></li>
+</ul>
+
+
+<p><em>Major sponsors</em> made donations specifically to support the HBM Hackathon program.</p>
+
+<p><em>Secondary sponsors</em> are qualified by making tools and resources AWS-accessible in advance of the meeting, having an on-site presence (flagged consultation table in the Hack Room) during scheduled informal hack time during lunch and poster sessions and/or contributing relevant resources in support of the HBM Hackathon.</p>
+
+<h4>Have an open human brain mapping resource you would like to have included?</h4>
+
+<p>Just contact us: <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#111;&#x3a;&#104;&#98;&#x6d;&#x2e;&#x68;&#x61;&#99;&#x6b;&#x61;&#116;&#104;&#x6f;&#110;&#64;&#x67;&#109;&#97;&#105;&#108;&#x2e;&#99;&#x6f;&#109;">&#104;&#98;&#x6d;&#46;&#104;&#97;&#x63;&#107;&#97;&#x74;&#x68;&#x6f;&#x6e;&#64;&#103;&#109;&#x61;&#105;&#108;&#x2e;&#99;&#111;&#109;</a></p>
+
+<h4>Venue</h4>
+
+<p>OHBM has allocated approximately 3000 square feet of space on the poster/exhibit hall for a <em>Hack Room</em> that will include a podium and presentation equipment. The <em>Hack Room</em> will be used for collaboration as well as formal presentations accommodating up to 300 people. Sponsoring and contributing groups will be present to provide ongoing consultation and assistance with their respective resources, and may optionally make brief presentations at the podium.</p>
+
+<h4>Schedule</h4>
+
+<p>The HBM Hackathon program will take place during the lunch hour and poster sessions, and includes the Tuesday evening poster reception.</p>
+
+<p><strong>Monday</strong> – sponsored by Allen Institute for Brain Science</p>
+
+<blockquote><p><strong>12:30-1:30pm:</strong> HBM Hackathon orientation presentations.</p>
+
+<ul>
+<li>Shared Allen Institute and AWS presentations</li>
+<li>Light box lunch</li>
+</ul>
+
+
+<p><strong>1:30-3:30pm:</strong> Informal hack activity</p>
+
+<ul>
+<li>Grassroots responses to contest challenges</li>
+<li>Consultation/assistance from sponsoring groups</li>
+<li>Brief presentations at north wall by participants/sponsors</li>
+<li>Circulating contest judges</li>
+</ul>
+</blockquote>
+
+<p><strong>Tuesday</strong> – sponsored by Amazon Web Services</p>
+
+<blockquote><p><strong>12:30-3:30pm:</strong>  Informal hack activity as described under Monday (see above)</p>
+
+<p><strong>6:00-7:30pm:</strong> Shared Allen Institute and AWS presentations</p></blockquote>
+
+<p><strong>Wednesday</strong> – sponsor TBD</p>
+
+<blockquote><p><strong>12:30-3:30pm:</strong> Informal hack activity as described under Monday (see above)</p>
+
+<p><strong>1:30-3:00pm:</strong> Preliminary pitches to judges (see Judging below)</p></blockquote>
+
+<p><strong>Thursday</strong> – sponsor TBD</p>
+
+<blockquote><p><strong>10:45-12:15pm:</strong> Informal activity as described under Monday (see above)</p>
+
+<p><strong>12:15-1:15pm:</strong> Final presentations and community voting</p>
+
+<p><strong>1:15-1:45pm:</strong> HBM Hackathon reception</p></blockquote>
+
+<h4>Contest and Challenges</h4>
+
+<p>The contest will be organized around three Challenges, two of them pre-announced and open to work in advance of the meeting; and one announced at the time of the meeting. A brief overview of the challenges are provided here and a more detailed post will be provided separately as a post here at the <a href="http://ohbm-seattle.github.io">HBM Hackathon Blog</a>.</p>
+
+<p>HBM Hackathon participants are encouraged to work in teams and will receive several incentives:</p>
+
+<ul>
+<li>$100 in cloud-computing credits per participant registered for OHBM</li>
+<li>Private GitHub Repository for groups of five or more (50 total)</li>
+</ul>
+
+
+<p><strong>Challenge 1.</strong> Best imaging and gene expression relationship discovered via integration of imaging data with the Allen Human Brain Atlas.</p>
+
+<blockquote><p>Here is a published example that would be responsive to this challenge:  Mathias Schroeter from Max Planck Institute will also be one of the speakers at the Imaging-Gene Expression Symposia during OHBM to talk about this paper.</p>
+
+<p>Mueller K, Sacher J, Arelin K, Holiga S, Kratzsch J, et al. Overweight and obesity are associated with neuronal injury in the human cerebellum and hippocampus in young adults: a combined MRI, serum marker and gene expression study. Transl Psychiatry 2: e200. doi:10.1038/tp.2012.121.</p></blockquote>
+
+<p><strong>Challenge 2.</strong> Best neural systems model or visualization based on large-scale integration of resting state fMRI data with other HBM Hackathon accessible datasets.</p>
+
+<blockquote><p>Here is a published example that would be responsive to this challenge:</p>
+
+<p>Uddin LQ, Supekar K, Amin H, Rykhlevskaia E, Nguyen DA, Greicius MD, Menon V. Dissociable connectivity within human angular gyrus and intraparietal sulcus: evidence from functional and structural connectivity. Cereb Cortex. 2010 20:2636-46.</p></blockquote>
+
+<p><strong>Challenge 3.</strong> To be announced the week of the meeting. This "mystery" challenge is to be addressed entirely during the meeting using resources made openly available to the brain mapping community.</p>
+
+<p><strong>Rules</strong></p>
+
+<ul>
+<li>Participants must use publicly available data that is listed on the HBM Hackathon Blog. If a public dataset is not listed that you want to use, we would love to add it to the list, just contact us: <a href="&#109;&#97;&#105;&#x6c;&#x74;&#111;&#58;&#x68;&#x62;&#109;&#46;&#x68;&#x61;&#99;&#107;&#x61;&#x74;&#104;&#111;&#110;&#x40;&#x67;&#109;&#x61;&#105;&#108;&#46;&#x63;&#111;&#109;">&#x68;&#x62;&#x6d;&#46;&#104;&#97;&#99;&#107;&#97;&#x74;&#104;&#111;&#x6e;&#x40;&#x67;&#x6d;&#97;&#105;&#x6c;&#x2e;&#99;&#111;&#109;</a></li>
+<li>Participants can use any computational resources available to them, but judging will take into account innovative use of cloud computing and how openly available the approach is (see Judging)</li>
+<li>At least one team leader/presenter must attend the meeting</li>
+<li>Off-site team members are allowed and encouraged, but will not be eligible for all resources made available to registered OHBM attendees (e.g., cloud computing credits)</li>
+</ul>
+
+
+<p><strong>Not interested in the challenges?</strong></p>
+
+<p>Cooperative “hackathon” activity outside of the contest is also encouraged. Please feel free to visit the OHBM Hack Room during the meeting to learn about brain mapping community resources and/or work on a project like:</p>
+
+<ol>
+<li>Efforts that encourage data sharing and reproducible data processing</li>
+<li>Dynamically configurable virtual machines (e.g. Amazon Machine Images)</li>
+<li>Cloud-accessible 3D model library and other standard space atlas resources</li>
+</ol>
+
+
+<h4>Judging</h4>
+
+<p>Participants will be judged using a combination of panel judging and peer voting. A committee of three judges not involved in the organization of the HBM Hackathon will be recruited.</p>
+
+<p><strong>The responsibilities of the judges are to:</strong></p>
+
+<ul>
+<li>Circulate in the Hack Room during informal activity time, and consider self-nominated projects for inclusion in the preliminary judging session scheduled for Wednesday evening.</li>
+<li>Attend the preliminary pitches of hack projects Wednesday 1:30-3:00pm at the north wall presentation space, and decide on 2-3 finalists in each category.</li>
+</ul>
+
+
+<p><strong>Criteria to be applied include:</strong></p>
+
+<ul>
+<li>Scientific impact</li>
+<li>Innovative use of cloud services</li>
+<li>Open availability of brain mapping tools, atlases, or datasets</li>
+<li>Extent and diversity of data used</li>
+</ul>
+
+
+<p><strong>Preliminary judging session:</strong> Wednesday 1:30-3:00pm</p>
+
+<ul>
+<li>Judge-nominated projects pitch for 4 minute (5 slides) with one minute for questions</li>
+<li>A maximum of 15 projects will be presented in this session</li>
+<li>Judges select 2 per Challenge for final session on Thursday</li>
+<li>Finalists may “pour it on” overnight</li>
+</ul>
+
+
+<p><strong>Final Presentations:</strong> Thursday 12:15-1:15pm</p>
+
+<ul>
+<li>Final projects present for 10 min total (including any questions)</li>
+<li>Winners selected by community voting (i.e., of those attending)</li>
+</ul>
+
+
+<p><strong>Reception</strong> – Thursday 1:15-1:45pm</p>
+
+<ul>
+<li>Votes will be tabulated and winners will be announced</li>
+<li>Refreshments will be provided</li>
+</ul>
+
+
+<h4>Prizes</h4>
+
+<p>Winning entries in each category receive:</p>
+
+<ul>
+<li>An invitation to submit project to Frontiers in Brain Imaging Methods with Open Access Publication Fees waived (must undergo standard peer review)</li>
+<li>Amazon Kindle Fire and/or Paperwhite (limit 3 per team)</li>
+<li>AWS hosts AMI and/or data resulting from the hackathon free of charge</li>
+<li>Free GitHub Membership with private repositories (Challenge 1: one year silver, Challenge 2: 1 year bronze, Challenge 3: six months bronze)</li>
+</ul>
+
+
+<h4>Thank you and good luck!</h4>
+
+<p><strong>The HBM Hackathon Organizers</strong></p>
+
+<ul>
+<li>Thomas Grabowski, University of Washington, LOC Chair</li>
+<li>Nolan Nichols, University of Washington</li>
+<li>Chinh Dang, Allen Institute for Brain Science</li>
+<li>Elaine Shen, Allen Institute for Brain Science</li>
+<li>Rachel Pizarro, Amazon Web Services</li>
+<li>Jamie Kinney, Amazon Web Services</li>
+<li>Satrajit Ghosh, Massachusetts Institute of Technology</li>
+<li>OHBM 2013 Local Organizing Committee</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

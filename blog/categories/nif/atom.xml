@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: NIF | HBM Hackathon]]></title>
+  <link href="http://ohbm-seattle.github.io/blog/categories/nif/atom.xml" rel="self"/>
+  <link href="http://ohbm-seattle.github.io/"/>
+  <updated>2013-06-26T07:24:33-07:00</updated>
+  <id>http://ohbm-seattle.github.io/</id>
+  <author>
+    <name><![CDATA[OHBM Organizing Committee]]></name>
+    <email><![CDATA[hbm.hackathon@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[NIF: an inventory of Web-based neuroscience resources]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources/"/>
+    <updated>2013-05-29T14:03:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources</id>
+    <content type="html"><![CDATA[<p><img src="http://www.neuinfo.org/images/nif-logo.png" width="75" title="&#34;NIF&#34;" alt="&#34;NIF&#34;"></p>
+
+<p>The <a href="http://www.neuinfo.org">Neuroscience Information Framework</a>: neuroscience data, materials, and tools  via any computer connected to the Internet.</p>
+
+<!-- more -->
+
+
+<h4>Background</h4>
+
+<p>Currently NIF Offers:</p>
+
+<ol>
+<li>A <a href="http://www.neuinfo.org/nif/nifgwt.html">search</a> portal for researchers looking for neuroscience information, tools, data or materials</li>
+<li>Access to content normally not indexed by search engines (i.e, the "hidden web")</li>
+<li><a href="http://neuinfo.org/nif_components/disco/interoperation.shtm">Tools</a> for promoting interoperability among databases</li>
+<li>The <a href="http://www.neuinfo.org/vocabularies/index.shtm">NIFSTD ontology</a> covering the major domains of neuroscience (e.g., brain anatomy, cells, organisms, diseases, techniques)</li>
+<li><a href="http://www.neuinfo.org/developers/index.shtm">Developer resources</a> for accessing the NIF vocabulary and NIF tools, such as <a href="http://neuinfo.org/developers/nif_web_services.shtm">web services</a> and including a <a href="http://neuinfo.org/tutorials/developers_tool/federated_data.shtm">tutorial</a></li>
+</ol>
+
+
+<p>Some particular data sets which can be offered are Brain Connectivity Data (50316 records), Brain Activation Foci (5,145), Diseases (1,521), Microarray (642,995):</p>
+
+<ul>
+<li><a href="https://www.neuinfo.org/mynif/search.php?q=connectivity&amp;first=true&amp;cf=Connectivity">Integrated Nervous System Connectivity View</a> is an aggregated dataset of connectivity statements from BAMS, CoCoMac, BrainMaps, Connectome Wiki, the Hippocampal-Parahippocampal Table of Temporal-Lobe.com and the Avian Brain Circuitry Database.</li>
+<li><a href="https://www.neuinfo.org/mynif/search.php?q=connectivity&amp;first=true&amp;cf=Disease&amp;t=indexable&amp;nif=nlx_86401-1">Integrated Disease View</a> is a virtual database currently indexing authoritative information on disease and treatment options from: NINDS Disorder List and PubMed Health.</li>
+<li><a href="https://www.neuinfo.org/mynif/search.php?q=connectivity&amp;first=true&amp;cf=Brain%20Activation%20Foci">Activation Foci</a> data provides functional activation foci data from published neuroimaging studies.</li>
+</ul>
+
+
+<h4>Example Responses to Challenges</h4>
+
+<p><strong>Challenge 1:</strong></p>
+
+<ul>
+<li>Use NIF neuron registry to identify cell systems in various neurodegenerative diseases and map it to ABA data.</li>
+<li>For different diseases, use NeuronRegistry-NeuroLex to infer from genes what specific cell populations differently effect neuron types. Also, we'd like to link those cell systems in Neurodegenerative diseases to neurotransmitter data in NeuronRegistry.</li>
+<li>For example, in Alzheimer we want to examine ABA genes and how differently they affect different group of neurons found in NeuronRegistry. Infer what cell populations impacted in various brain regions.</li>
+<li>ABA has mapped neurotransmitter related genes, thus one challenge is: <strong>Are there specific neurotransmitter systems affected in mental disorders and do they map to any known cell type?</strong></li>
+</ul>
+
+
+<p><strong>Challenge 2:</strong></p>
+
+<p>Use NIF cell data as a bridge between resting data and projections of know cell types in various brain regions (ABA). Use Neurolex (NIF) and tractography (NIF) data we can estimate what type of cells where can cell body are and where axon projected.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Virtual Machines | HBM Hackathon]]></title>
+  <link href="http://ohbm-seattle.github.io/blog/categories/virtual-machines/atom.xml" rel="self"/>
+  <link href="http://ohbm-seattle.github.io/"/>
+  <updated>2013-06-26T07:24:33-07:00</updated>
+  <id>http://ohbm-seattle.github.io/</id>
+  <author>
+    <name><![CDATA[OHBM Organizing Committee]]></name>
+    <email><![CDATA[hbm.hackathon@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[NeuroDebian: The ultimate neuroscience software platform]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform/"/>
+    <updated>2013-06-11T18:00:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform</id>
+    <content type="html"><![CDATA[<p><img src="/images/NeuroDebian.png" title="&#34;NeuroDebian&#34;" alt="&#34;NeuroDebian&#34;"></p>
+
+<p><a href="http://neuro.debian.net">NeuroDebian</a> is a turnkey software platform for nearly all aspects of the neuroscientific research process.</p>
+
+<!-- more -->
+
+
+<p>NeuroDebian provides a large collection of popular neuroscience research software for the <a href="http://www.debian.org">Debian</a> operating system as well as <a href="http://www.ubuntu.com">Ubuntu</a> and other derivatives.  Moreover it provides some popular datasets and atlases within the same convenient package management system.</p>
+
+<h3>Software</h3>
+
+<p>Popular neuroscience-oriented packages include <a href="http://neuro.debian.net/pkgs/afni.html">AFNI</a>, <a href="http://neuro.debian.net/pkgs/fsl.html">FSL</a>, <a href="http://neuro.debian.net/pkgs/python-mvpa2.html">PyMVPA</a> and <a href="http://neuro.debian.net/pkgs.html">many others</a>. In addition popular projects for generic (e.g. <a href="http://neuro.debian.net/pkgs/python-pandas.html">pandas</a>, <a href="http://neuro.debian.net/pkgs/xppaut.html">xppaut</a>) and distributed (e.g., <a href="http://neuro.debian.net/pkgs/coop-computing-tools.html">coop-computing-tools</a>, <a href="http://neuro.debian.net/pkgs/condor.html">condor</a>) computation needs are included.  The <a href="http://neuro.debian.net/pkgs.html">entire list</a> is too long to cite here.</p>
+
+<h3>Data</h3>
+
+<ul>
+<li>Atlases provided by software such as <a href="http://neuro.debian.net/pkgs/fsl.html">FSL</a> and <a href="http://neuro.debian.net/pkgs/afni.html">AFNI</a></li>
+<li><a href="http://neuro.debian.net/pkgs/neurosynth-dataset.html">NeuroSynth dataset</a> and <a href="http://neuro.debian.net/pkgs/fsl-neurosynth-atlas.html">its FSL atlas</a></li>
+<li><a href="http://neuro.debian.net/pkgs/haxby2001-faceobject.html">Haxby 2001</a> dataset</li>
+<li><a href="http://neuro.debian.net/pkgs/python-mvpa2-tutorialdata.html">PyMVPA tutorial</a> (including data and IPython notebook)</li>
+<li>See <a href="http://neuro.debian.net/pkglists/toc_pkgs_for_release_data.html">our website</a> for the exhaustive list</li>
+</ul>
+
+
+<h3>Installation</h3>
+
+<p>Majority of software packaged by NeuroDebian team is integrated are already available on any stock <a href="http://www.debian.org">Debian</a> or <a href="http://www.ubuntu.com">Ubuntu</a> system.  In addition we maintain a dedicated <a href="http://neuro.debian.net/#get-neurodebian">NeuroDebian repository</a> which you could add to APT sources on your stock Debian/Ubuntu installation to obtain most recent versions and software we maintain AND data packages which are absent from official Debian and Ubuntu archives.</p>
+
+<h4>Personal virtualization</h4>
+
+<p>Pre-crafted <a href="http://neuro.debian.net/vm.html">NeuroDebian virtual appliance</a> allows to start using NeuroDebian and thousands of available software packages on any operating system in matter of minutes.</p>
+
+<h4>Cloud</h4>
+
+<p>NeuroDebian provides software for the NITRC-CE environment available for the hackathon participants.</p>
+
+<h3>Support</h3>
+
+<p><a href="mailto:team@neuro.debian.net">Email us directly</a> with any "private" communication. Otherwise please use our <a href="http://lists.alioth.debian.org/mailman/listinfo/neurodebian-users">public mailing list</a> with any support questions.</p>
+
+<p>You are welcome also to join #neurodebian IRC room on OFTC network if you have quick questions or want to join a live discussion.</p>
+
+<p>Please visit our <a href="http://neuro.debian.net/about.html#chap-contacts">support</a> page for additional channels.</p>
+
+<h3>Conclusion</h3>
+
+<p>If you are not using NeuroDebian <em>already</em> - you must try it now!</p>
+
+<!-- some packages worth mentioning -->
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[NITRC-CE: A computational resource for the HBM Hackathon]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/05/13/nitrc-ce-a-cloud-based-computational-resource-for-the-hbm-hackathon/"/>
+    <updated>2013-05-13T12:00:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/05/13/nitrc-ce-a-cloud-based-computational-resource-for-the-hbm-hackathon</id>
+    <content type="html"><![CDATA[<p><img src="/images/NITRC-CE.png" title="&#34;NITRC-CE&#34;" alt="&#34;NITRC-CE&#34;"></p>
+
+<p>NITRC-CE is an on-demand, cloud based computational virtual machine pre-installed with popular NITRC neuroimaging tools.</p>
+
+<!-- more -->
+
+
+<p>In January of 2013, the Neuroimaging Informatics Tools and Resources Clearinghouse (<a href="http://www.nitrc.org">NITRC</a>) released it's Computational Environment (NITRC-CE), an on-demand, cloud based computational virtual machine pre-installed with popular NITRC neuroimaging tools built using NeuroDebian.</p>
+
+<h3>Purpose</h3>
+
+<p>The NITRC-CE is designed to be a low-barrier entry point to accessing the power of the cloud-based computing environment by providing a fully configured, ready to go EC2 instance within just a few clicks of the mouse.</p>
+
+<h3>Access</h3>
+
+<p>NITRC-CE is available via the <a href="https://aws.amazon.com/marketplace/pp/B00AW0MBLO">Amazon Marketplace</a>. In addition,  you can also access a 'public AMI' to conduct your analyses on the Amazon EC2 platform.  The NITRC-CE is scalable and extensible, and preconfigured with many <a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:User_Guide_-_NITRC-CE_Installed_Packages">software packages</a>. Additional software supported under Ubuntu 12.04 LTE can be added by the user.</p>
+
+<h3>Data</h3>
+
+<p>Each NITRC-CE instance has remote access, so that users own data can be copied to and from using 'scp' and 'sftp'. In addition, The NITRC-CE desktop is one-click away from the NITRC Image Repository (NITRC-IR), home of data for the 1000 Functional Connectomes, ADHD-200, ABIDE and other datasets. In addition, the NDAR download manager is available to assist in access to your NDAR datasets. Additional access points to other Hackathon data will be added in the near future.</p>
+
+<h3>Support</h3>
+
+<p>The staff of NITRC are available to assist users with issues (<strong><a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#110;&#105;&#x74;&#x72;&#105;&#99;&#x69;&#110;&#102;&#111;&#x40;&#110;&#x69;&#116;&#114;&#99;&#46;&#x6f;&#x72;&#103;">&#x6e;&#105;&#116;&#x72;&#105;&#x63;&#x69;&#x6e;&#102;&#x6f;&#x40;&#110;&#x69;&#x74;&#114;&#x63;&#x2e;&#x6f;&#x72;&#x67;</a></strong>), and a comprehensive <a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:User_Guide_-_NITRC_Computational_Environment">Users Guide</a> and discussion forum dedicated to <a href="http://www.nitrc.org/forum/forum.php?thread_id=3897&amp;forum_id=3663">HBM Hackathon support</a>.</p>
+
+<h3>Conclusion</h3>
+
+<p>Best of luck in your participation in the HBM Hackathon. We hope the NITRC-CE will be a valuable resource to you.  Feel free to contact us with any questions, problems or suggestions for enhanced support of this endeavor.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[LONI Pipeline in the Cloud]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/04/18/loni-pipeline-in-the-cloud/"/>
+    <updated>2013-04-18T14:30:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/04/18/loni-pipeline-in-the-cloud</id>
+    <content type="html"><![CDATA[<p><img src="http://pipeline.loni.ucla.edu/wp-content/themes/pipeline2012/images/explore_Coin.jpg" title="height=150 &#34;LONI Pipeline&#34;" alt="height=150 &#34;LONI Pipeline&#34;"></p>
+
+<p>The <a href="http://pipeline.loni.ucla.edu" title="LONI Pipeline">LONI Pipeline</a> is available on the Cloud as an <a href="http://pipeline.loni.ucla.edu/products-services/pipeline-server-on-ec2" title="Pipeline on EC2">Amazon EC2 Instance</a> (i.e., virtual machine) with access to several datasets.</p>
+
+<!-- more -->
+
+
+<p> Both free and paid AWS/EC2 subscriptions can be used to launch the DPS (Distributed Pipeline Server) on EC2, and click Launch Instance. Then remote clients can connect to the hostname of that instance (e.g., ec2-184-73-1-1.compute-1.amazonaws.com). After connecting to the server, you can open a workflow under Server Library and run. The Pipeline library includes 100’s of imaging and genetics software suites, atomic processing tools, datasets and resources.  For additional details on LONI Pipeline, please see <a href="http://pipeline.loni.ucla.edu">http://pipeline.loni.ucla.edu</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

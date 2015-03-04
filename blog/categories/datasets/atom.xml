@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Datasets | HBM Hackathon]]></title>
+  <link href="http://ohbm-seattle.github.io/blog/categories/datasets/atom.xml" rel="self"/>
+  <link href="http://ohbm-seattle.github.io/"/>
+  <updated>2013-06-26T07:24:33-07:00</updated>
+  <id>http://ohbm-seattle.github.io/</id>
+  <author>
+    <name><![CDATA[OHBM Organizing Committee]]></name>
+    <email><![CDATA[hbm.hackathon@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[INCF sponsors the HBM Hackathon]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/06/18/incf-sponsors-the-hbm-hackathon/"/>
+    <updated>2013-06-18T08:48:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/06/18/incf-sponsors-the-hbm-hackathon</id>
+    <content type="html"><![CDATA[<p><img src="http://www.incf.org/logo.png"></p>
+
+<p>The <a href="http://www.incf.org/">International Neuroinformatics Coordinating Facility</a> (INCF) coordinates collaborative informatics infrastructure for neuroscience.</p>
+
+<!-- more -->
+
+
+<p><a href="http://www.incf.org/">INCF</a> is an international organization launched in 2005, following a proposal from the Global Science Forum of the OECD to establish international coordination and collaborative informatics infrastructure for neuroscience – and currently has 17 member countries across North America, Europe, Australia and Asia. INCF establishes and operates scientific programs to develop standards for neuroscience data sharing, analysis, modeling and simulation while coordinating an informatics infrastructure designed to enable the integration of neuroscience data and knowledge worldwide and catalyze insights into brain function in health and disease.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mindboggle 101: Manually labeled brain surfaces and volumes]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/06/17/mindboggle-101-manually-labeled-brain-surfaces-and-volumes/"/>
+    <updated>2013-06-17T17:03:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/06/17/mindboggle-101-manually-labeled-brain-surfaces-and-volumes</id>
+    <content type="html"><![CDATA[<p><img src="http://www.mindboggle.info/_static/mindboggle_logo_small.jpg"></p>
+
+<p>Mindboggle-101: Manually labeled brain surfaces and volumes</p>
+
+<!-- more -->
+
+
+<p>The <a href="http://www.mindboggle.info/data/">Mindboggle-101</a> dataset includes manually labeled anatomical regions for 101 healthy subjects.  The manually edited cortical labels follow sulcus landmarks according to the Desikan-Killiany-Tourville (DKT) protocol. The protocol, individually labeled brain images, optimal average surface and volume templates, and a surface Gaussian classifier atlas are all available for download and are described in the following <a href="http://www.frontiersin.org/Brain_Imaging_Methods/10.3389/fnins.2012.00171/full">article</a>:</p>
+
+<p>“101 labeled brain images and a consistent human cortical labeling protocol”
+Arno Klein, Jason Tourville. Frontiers in Brain Imaging Methods. 6:171. DOI: 10.3389/fnins.2012.00171</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[NeuroDebian: The ultimate neuroscience software platform]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform/"/>
+    <updated>2013-06-11T18:00:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform</id>
+    <content type="html"><![CDATA[<p><img src="/images/NeuroDebian.png" title="&#34;NeuroDebian&#34;" alt="&#34;NeuroDebian&#34;"></p>
+
+<p><a href="http://neuro.debian.net">NeuroDebian</a> is a turnkey software platform for nearly all aspects of the neuroscientific research process.</p>
+
+<!-- more -->
+
+
+<p>NeuroDebian provides a large collection of popular neuroscience research software for the <a href="http://www.debian.org">Debian</a> operating system as well as <a href="http://www.ubuntu.com">Ubuntu</a> and other derivatives.  Moreover it provides some popular datasets and atlases within the same convenient package management system.</p>
+
+<h3>Software</h3>
+
+<p>Popular neuroscience-oriented packages include <a href="http://neuro.debian.net/pkgs/afni.html">AFNI</a>, <a href="http://neuro.debian.net/pkgs/fsl.html">FSL</a>, <a href="http://neuro.debian.net/pkgs/python-mvpa2.html">PyMVPA</a> and <a href="http://neuro.debian.net/pkgs.html">many others</a>. In addition popular projects for generic (e.g. <a href="http://neuro.debian.net/pkgs/python-pandas.html">pandas</a>, <a href="http://neuro.debian.net/pkgs/xppaut.html">xppaut</a>) and distributed (e.g., <a href="http://neuro.debian.net/pkgs/coop-computing-tools.html">coop-computing-tools</a>, <a href="http://neuro.debian.net/pkgs/condor.html">condor</a>) computation needs are included.  The <a href="http://neuro.debian.net/pkgs.html">entire list</a> is too long to cite here.</p>
+
+<h3>Data</h3>
+
+<ul>
+<li>Atlases provided by software such as <a href="http://neuro.debian.net/pkgs/fsl.html">FSL</a> and <a href="http://neuro.debian.net/pkgs/afni.html">AFNI</a></li>
+<li><a href="http://neuro.debian.net/pkgs/neurosynth-dataset.html">NeuroSynth dataset</a> and <a href="http://neuro.debian.net/pkgs/fsl-neurosynth-atlas.html">its FSL atlas</a></li>
+<li><a href="http://neuro.debian.net/pkgs/haxby2001-faceobject.html">Haxby 2001</a> dataset</li>
+<li><a href="http://neuro.debian.net/pkgs/python-mvpa2-tutorialdata.html">PyMVPA tutorial</a> (including data and IPython notebook)</li>
+<li>See <a href="http://neuro.debian.net/pkglists/toc_pkgs_for_release_data.html">our website</a> for the exhaustive list</li>
+</ul>
+
+
+<h3>Installation</h3>
+
+<p>Majority of software packaged by NeuroDebian team is integrated are already available on any stock <a href="http://www.debian.org">Debian</a> or <a href="http://www.ubuntu.com">Ubuntu</a> system.  In addition we maintain a dedicated <a href="http://neuro.debian.net/#get-neurodebian">NeuroDebian repository</a> which you could add to APT sources on your stock Debian/Ubuntu installation to obtain most recent versions and software we maintain AND data packages which are absent from official Debian and Ubuntu archives.</p>
+
+<h4>Personal virtualization</h4>
+
+<p>Pre-crafted <a href="http://neuro.debian.net/vm.html">NeuroDebian virtual appliance</a> allows to start using NeuroDebian and thousands of available software packages on any operating system in matter of minutes.</p>
+
+<h4>Cloud</h4>
+
+<p>NeuroDebian provides software for the NITRC-CE environment available for the hackathon participants.</p>
+
+<h3>Support</h3>
+
+<p><a href="mailto:team@neuro.debian.net">Email us directly</a> with any "private" communication. Otherwise please use our <a href="http://lists.alioth.debian.org/mailman/listinfo/neurodebian-users">public mailing list</a> with any support questions.</p>
+
+<p>You are welcome also to join #neurodebian IRC room on OFTC network if you have quick questions or want to join a live discussion.</p>
+
+<p>Please visit our <a href="http://neuro.debian.net/about.html#chap-contacts">support</a> page for additional channels.</p>
+
+<h3>Conclusion</h3>
+
+<p>If you are not using NeuroDebian <em>already</em> - you must try it now!</p>
+
+<!-- some packages worth mentioning -->
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[NIF: an inventory of Web-based neuroscience resources]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources/"/>
+    <updated>2013-05-29T14:03:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources</id>
+    <content type="html"><![CDATA[<p><img src="http://www.neuinfo.org/images/nif-logo.png" width="75" title="&#34;NIF&#34;" alt="&#34;NIF&#34;"></p>
+
+<p>The <a href="http://www.neuinfo.org">Neuroscience Information Framework</a>: neuroscience data, materials, and tools  via any computer connected to the Internet.</p>
+
+<!-- more -->
+
+
+<h4>Background</h4>
+
+<p>Currently NIF Offers:</p>
+
+<ol>
+<li>A <a href="http://www.neuinfo.org/nif/nifgwt.html">search</a> portal for researchers looking for neuroscience information, tools, data or materials</li>
+<li>Access to content normally not indexed by search engines (i.e, the "hidden web")</li>
+<li><a href="http://neuinfo.org/nif_components/disco/interoperation.shtm">Tools</a> for promoting interoperability among databases</li>
+<li>The <a href="http://www.neuinfo.org/vocabularies/index.shtm">NIFSTD ontology</a> covering the major domains of neuroscience (e.g., brain anatomy, cells, organisms, diseases, techniques)</li>
+<li><a href="http://www.neuinfo.org/developers/index.shtm">Developer resources</a> for accessing the NIF vocabulary and NIF tools, such as <a href="http://neuinfo.org/developers/nif_web_services.shtm">web services</a> and including a <a href="http://neuinfo.org/tutorials/developers_tool/federated_data.shtm">tutorial</a></li>
+</ol>
+
+
+<p>Some particular data sets which can be offered are Brain Connectivity Data (50316 records), Brain Activation Foci (5,145), Diseases (1,521), Microarray (642,995):</p>
+
+<ul>
+<li><a href="https://www.neuinfo.org/mynif/search.php?q=connectivity&amp;first=true&amp;cf=Connectivity">Integrated Nervous System Connectivity View</a> is an aggregated dataset of connectivity statements from BAMS, CoCoMac, BrainMaps, Connectome Wiki, the Hippocampal-Parahippocampal Table of Temporal-Lobe.com and the Avian Brain Circuitry Database.</li>
+<li><a href="https://www.neuinfo.org/mynif/search.php?q=connectivity&amp;first=true&amp;cf=Disease&amp;t=indexable&amp;nif=nlx_86401-1">Integrated Disease View</a> is a virtual database currently indexing authoritative information on disease and treatment options from: NINDS Disorder List and PubMed Health.</li>
+<li><a href="https://www.neuinfo.org/mynif/search.php?q=connectivity&amp;first=true&amp;cf=Brain%20Activation%20Foci">Activation Foci</a> data provides functional activation foci data from published neuroimaging studies.</li>
+</ul>
+
+
+<h4>Example Responses to Challenges</h4>
+
+<p><strong>Challenge 1:</strong></p>
+
+<ul>
+<li>Use NIF neuron registry to identify cell systems in various neurodegenerative diseases and map it to ABA data.</li>
+<li>For different diseases, use NeuronRegistry-NeuroLex to infer from genes what specific cell populations differently effect neuron types. Also, we'd like to link those cell systems in Neurodegenerative diseases to neurotransmitter data in NeuronRegistry.</li>
+<li>For example, in Alzheimer we want to examine ABA genes and how differently they affect different group of neurons found in NeuronRegistry. Infer what cell populations impacted in various brain regions.</li>
+<li>ABA has mapped neurotransmitter related genes, thus one challenge is: <strong>Are there specific neurotransmitter systems affected in mental disorders and do they map to any known cell type?</strong></li>
+</ul>
+
+
+<p><strong>Challenge 2:</strong></p>
+
+<p>Use NIF cell data as a bridge between resting data and projections of know cell types in various brain regions (ABA). Use Neurolex (NIF) and tractography (NIF) data we can estimate what type of cells where can cell body are and where axon projected.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Explore and get public fMRI datasets from COINS Data Exchange]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange/"/>
+    <updated>2013-05-14T13:29:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange</id>
+    <content type="html"><![CDATA[<p><img src="http://d1yzvr466z4u1c.cloudfront.net/image02.jpg" alt="COINS Banner" style="width:100%;" /></p>
+
+<p>COINS manages fMRI, MEG and phenotypic data for over 400 studies across six research institutions.</p>
+
+<!-- more -->
+
+
+<p>An ever-increasing subset of this data is being made publicly available on the COINS Data Exchange. Currently, the research community can explore and request raw MRI, fMRI and phenotypic data from several independent studies.</p>
+
+<h3>Tutorial:</h3>
+
+<p>A simple video-tutorial for querying can be seen on the COINS Data Exchange site, or on <a href="http://www.youtube.com/watch?v=YjMbCq5NBuc">YouTube</a>.</p>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/YjMbCq5NBuc "></iframe></div></p>
+
+<h3>Exploration:</h3>
+
+<p>Creating a COINS account is easy. Just go to <a href="http://coins.mrn.org/dx">http://coins.mrn.org/dx</a>, enter your email address, make up a password and click ‘Get Account’.  That account is needed to let you know when your data are available for download, and to track any data agreements necessary for specific datasets. It is recommended that you do this prior to the Hackathon, just to explore the Data Exchange before needing to use it.</p>
+
+<p>Once your account has been created, you can browse data in the Data Exchange. A unique filtering tool allows you to construct complex queries by combining data filters into logical groups and sub-groups. The goal of the exploration should be to target the exact data that is useful to you before you request and download it. This will save bandwidth and computing time on the COINS servers. Additionally, a well-targeted request will save you time by decreasing the need to post-filter data after download.</p>
+
+<h3>Approval:</h3>
+
+<p>Once you have found your ideal data, you can request that data by clicking the ‘Request’ button at the top-right. Though all data in the COINS data exchange is fully anonymized and defaced, some studies will need to explicitly approve your request. For this reason, you can provide information about your intentions for the data that you are requesting. Other studies (ABIDE, for example) have pre-approved their data for instant download. Each data-source is approved independently, so you can start downloading data as it is approved.</p>
+
+<h3>Delivery:</h3>
+
+<p>Approved data is packaged into ‘Data Capsules’ on the COINS servers. You will receive an email when your Data Capsule is ready, and you can then begin your download(s).</p>
+
+<h3>Using COINS Data Exchange to meet your OHBM Hackathon objectives:</h3>
+
+<p>At present, the COINS Data Exchange is only accessible through the browser interface at <a href="http://coins.mrn.org/dx">http://coins.mrn.org/dx</a>. However, once your data has been approved and packaged for download, you can download each data capsule directly to another web-server or cloud-based storage device from the command line or a script.</p>
+
+<p>After choosing which capsule to download, a dialog will appear with a temporary URL that can be used to request the capsule directly. The link will expire as soon as the download button is clicked, or after five minutes, so please do not click on the data until you are ready to download it..
+<img src="http://d1yzvr466z4u1c.cloudfront.net/image01.png" alt="COINS Banner" style="max-width:100%;" /></p>
+
+<p>Downloaded imaging data may consist of DICOM or NIfTI files, and will be organized in the following file-hierarchy:</p>
+
+<p><img src="http://d1yzvr466z4u1c.cloudfront.net/image00.png" alt="COINS Banner" style="max-width:100%" /></p>
+
+<p>Downloaded phenotypic (assessment) data will be contained in CSV files: one per instrument (questionnaire form).</p>
+
+<h3>Currently Available Datasets:</h3>
+
+<ul>
+<li><p><strong>ABIDE:</strong> from <a href="http://fcon_1000.projects.nitrc.org/indi/abide/">http://fcon_1000.projects.nitrc.org/indi/abide/</a>: In response, the Autism Brain Imaging Data Exchange (ABIDE) hereby provides previously collected resting state functional magnetic resonance imaging (R-fMRI) datasets from 539 individuals with ASD and 573 typical controls for the purpose of data sharing in the broader scientific community. Various cognitive and clinical assessments are also available. These data are pre-approved for sharing.</p></li>
+<li><p><strong>Discovery Sci:</strong> <a href="http://fcon_1000.projects.nitrc.org/indi/pro/nki.html">http://fcon_1000.projects.nitrc.org/indi/pro/nki.html</a>: The NKI/Rockland Sample is intended to be a phenotypically rich neuroimaging sample, consisting of data obtained from individuals between the ages of 4 and 85 year-old. All individuals to be included in the sample undergo semi-structured diagnostic psychiatric interviews, and complete a battery of psychiatric, cognitive and behavioral assessments in order to provide comprehensive phenotypic information for the purpose of exploring brain/behavior relationships. Data from the NKI/Rockland sample will be given away prospectively, during the course of acquisition (randomized 2-8 week lag). These data require a data sharing agreement which can be quickly approved.</p></li>
+<li><p><strong>MCIC:</strong> The MIND Clinical Imaging Consortium is composed of The Mental Illness and Neuroscience Discovery Institute, now the Mind Research Network (MRN, <a href="http://mrn.org">http://mrn.org</a>), comprised of investigators at the University of New Mexico, the University of Minnesota, Massachusetts General Hospital, and the University of Iowa (data from this site not available). The MCIC consortium conducted a cross-sectional study to identify quantitative neuroimaging biomarkers of schizophrenia. Expertly collected, well-curated data sets consisting of comprehensive clinical characterization and raw structural, functional and diffusion-weighted DICOM images in schizophrenia patients (n=162) and sex and age-matched controls (n=169) are now accessible to the scientific community. These data also require a data sharing agreement which can be quickly approved.</p></li>
+</ul>
+
+
+<h3>Contact:</h3>
+
+<p>The COINS developers are excited to support the OHBM Hackathon participants. Any requests, questions or feedback can be directed to <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#110;&#105;&#64;&#109;&#x72;&#x6e;&#46;&#x6f;&#x72;&#x67;">&#110;&#105;&#x40;&#x6d;&#x72;&#110;&#46;&#111;&#114;&#x67;</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

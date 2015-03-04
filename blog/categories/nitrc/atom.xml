@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: NITRC | HBM Hackathon]]></title>
+  <link href="http://ohbm-seattle.github.io/blog/categories/nitrc/atom.xml" rel="self"/>
+  <link href="http://ohbm-seattle.github.io/"/>
+  <updated>2013-06-26T07:24:33-07:00</updated>
+  <id>http://ohbm-seattle.github.io/</id>
+  <author>
+    <name><![CDATA[OHBM Organizing Committee]]></name>
+    <email><![CDATA[hbm.hackathon@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[NITRC-CE: A computational resource for the HBM Hackathon]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/05/13/nitrc-ce-a-cloud-based-computational-resource-for-the-hbm-hackathon/"/>
+    <updated>2013-05-13T12:00:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/05/13/nitrc-ce-a-cloud-based-computational-resource-for-the-hbm-hackathon</id>
+    <content type="html"><![CDATA[<p><img src="/images/NITRC-CE.png" title="&#34;NITRC-CE&#34;" alt="&#34;NITRC-CE&#34;"></p>
+
+<p>NITRC-CE is an on-demand, cloud based computational virtual machine pre-installed with popular NITRC neuroimaging tools.</p>
+
+<!-- more -->
+
+
+<p>In January of 2013, the Neuroimaging Informatics Tools and Resources Clearinghouse (<a href="http://www.nitrc.org">NITRC</a>) released it's Computational Environment (NITRC-CE), an on-demand, cloud based computational virtual machine pre-installed with popular NITRC neuroimaging tools built using NeuroDebian.</p>
+
+<h3>Purpose</h3>
+
+<p>The NITRC-CE is designed to be a low-barrier entry point to accessing the power of the cloud-based computing environment by providing a fully configured, ready to go EC2 instance within just a few clicks of the mouse.</p>
+
+<h3>Access</h3>
+
+<p>NITRC-CE is available via the <a href="https://aws.amazon.com/marketplace/pp/B00AW0MBLO">Amazon Marketplace</a>. In addition,  you can also access a 'public AMI' to conduct your analyses on the Amazon EC2 platform.  The NITRC-CE is scalable and extensible, and preconfigured with many <a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:User_Guide_-_NITRC-CE_Installed_Packages">software packages</a>. Additional software supported under Ubuntu 12.04 LTE can be added by the user.</p>
+
+<h3>Data</h3>
+
+<p>Each NITRC-CE instance has remote access, so that users own data can be copied to and from using 'scp' and 'sftp'. In addition, The NITRC-CE desktop is one-click away from the NITRC Image Repository (NITRC-IR), home of data for the 1000 Functional Connectomes, ADHD-200, ABIDE and other datasets. In addition, the NDAR download manager is available to assist in access to your NDAR datasets. Additional access points to other Hackathon data will be added in the near future.</p>
+
+<h3>Support</h3>
+
+<p>The staff of NITRC are available to assist users with issues (<strong><a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#111;&#58;&#110;&#105;&#116;&#x72;&#105;&#99;&#x69;&#110;&#102;&#111;&#64;&#x6e;&#x69;&#116;&#x72;&#x63;&#x2e;&#111;&#x72;&#x67;">&#110;&#x69;&#x74;&#x72;&#x69;&#x63;&#x69;&#110;&#102;&#x6f;&#64;&#110;&#x69;&#116;&#x72;&#x63;&#x2e;&#111;&#x72;&#x67;</a></strong>), and a comprehensive <a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:User_Guide_-_NITRC_Computational_Environment">Users Guide</a> and discussion forum dedicated to <a href="http://www.nitrc.org/forum/forum.php?thread_id=3897&amp;forum_id=3663">HBM Hackathon support</a>.</p>
+
+<h3>Conclusion</h3>
+
+<p>Best of luck in your participation in the HBM Hackathon. We hope the NITRC-CE will be a valuable resource to you.  Feel free to contact us with any questions, problems or suggestions for enhanced support of this endeavor.</p>
+]]></content>
+  </entry>
+  
+</feed>

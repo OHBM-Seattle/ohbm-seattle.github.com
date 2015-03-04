@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ADNI | HBM Hackathon]]></title>
+  <link href="http://ohbm-seattle.github.io/blog/categories/adni/atom.xml" rel="self"/>
+  <link href="http://ohbm-seattle.github.io/"/>
+  <updated>2013-06-26T07:24:33-07:00</updated>
+  <id>http://ohbm-seattle.github.io/</id>
+  <author>
+    <name><![CDATA[OHBM Organizing Committee]]></name>
+    <email><![CDATA[hbm.hackathon@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Start Hacking with Data from ADNI]]></title>
+    <link href="http://ohbm-seattle.github.io/blog/2013/04/21/start-hacking-with-data-from-adni/"/>
+    <updated>2013-04-21T08:38:00-07:00</updated>
+    <id>http://ohbm-seattle.github.io/blog/2013/04/21/start-hacking-with-data-from-adni</id>
+    <content type="html"><![CDATA[<p><img src="https://ida.loni.ucla.edu/services/Images/Header/ADNI_Logo.png" title="height=150 &#34;ADNI&#34;" alt="height=150 &#34;ADNI&#34;"></p>
+
+<p>Start responding to the hackathon challenges using data from ADNI - the <a href="http://www.adni-info.org">Alzheimer's Disease Neuroimaging Initiative</a>.</p>
+
+<br />  
+
+
+
+
+<!-- more -->
+
+
+<p>The Alzheimer's Disease Neuroimaging Initiative (ADNI; <a href="http://www.adni-info.org">http://www.adni-info.org</a>) represents among the largest neuroimaging archive of data from Alzheimer's Disease (AD), Mild Cognitively Impaired (MCI), and healthy control subjects in the world. Now entering its third phase (ADNI, ADNI GO and ADNI 2), ADNI 2 is studying the rate of change of cognition, function, brain structure, and biomarkers in 150 controls, 450 MCI, 150 with mild to moderate AD and a new group of 100 people with significant, yet subtle, memory complaints, referred to as the significant memory concern cohort.  These data are openly available for analysis by approved scientists for research purposes, development of data processing methodologies, modeling, etc. Some conditions do apply, including that each person must gain access to the data through the normal application process and channels and the requested data may not be shared among other participants.  Full details on the data access policy are provided here (<a href="http://adni.loni.ucla.edu/data-samples/access-data">http://adni.loni.ucla.edu/data-samples/access-data</a>).</p>
+]]></content>
+  </entry>
+  
+</feed>
