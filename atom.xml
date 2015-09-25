@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[HBM Hackathon]]></title>
-  <link href="http://ohbm-seattle.github.io/atom.xml" rel="self"/>
-  <link href="http://ohbm-seattle.github.io/"/>
+  <link href="http://ohbm.github.io/seattle/atom.xml" rel="self"/>
+  <link href="http://ohbm.github.io/seattle/"/>
   <updated>2013-06-26T07:24:33-07:00</updated>
-  <id>http://ohbm-seattle.github.io/</id>
+  <id>http://ohbm.github.io/seattle/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
     <email><![CDATA[hbm.hackathon@gmail.com]]></email>
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Contest Winners Announced!]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/06/25/contest-winners-announced/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/06/25/contest-winners-announced/"/>
     <updated>2013-06-25T17:39:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/06/25/contest-winners-announced</id>
-    <content type="html"><![CDATA[<p><img src="http://ohbm-seattle.github.io/images/hackathon-banner.png"></p>
+    <id>http://ohbm.github.io/seattle/blog/2013/06/25/contest-winners-announced</id>
+    <content type="html"><![CDATA[<p><img src="http://ohbm.github.io/seattle/images/hackathon-banner.png"></p>
 
 <p>Congratulations to the winners of the HBM Hackathon Competition!</p>
 
@@ -36,7 +36,7 @@
 <p><strong>Team &#8220;No Sound Consensus&#8221;</strong> - Rhodri Cusack, Mark Daley, Charlotte Herzmann, Annika Linke, Jonathan Peelle, Conor Wild, Leire Zubiaurre-Elorza</p>
 
 <ul>
-<li><strong><a href="http://ohbm-seattle.github.io/images/no_sound_consensus_thursday_10mins.pdf">Presentation Link</a></strong></li>
+<li><strong><a href="http://ohbm.github.io/seattle/images/no_sound_consensus_thursday_10mins.pdf">Presentation Link</a></strong></li>
 <li><strong><a href="http://www.cusacklab.org/nsc">Visualization Demo</a></strong></li>
 <li><strong>Abstract:</strong></li>
 </ul>
@@ -49,7 +49,7 @@
 <p><strong>Team &#8220;SCI&#8221;</strong> - Miriah Meyer, Tom Fletcher, Sam Gerber, Sean McKenna, Wei Liu, Brandon Zielinski, Kris Zygmunt</p>
 
 <ul>
-<li><strong><a href="http://ohbm-seattle.github.io/images/iCorrPlot.pdf">Presentation Link</a></strong></li>
+<li><strong><a href="http://ohbm.github.io/seattle/images/iCorrPlot.pdf">Presentation Link</a></strong></li>
 <li><strong>Abstract:</strong></li>
 </ul>
 
@@ -61,7 +61,7 @@
 <p><strong>Team &#8220;MindBoggle-102&#8221;</strong> - Arno Klein, Jason Tourvillle, Jay Bohland, Rich Stoner</p>
 
 <ul>
-<li><strong><a href="http://ohbm-seattle.github.io/images/HBM2013_Hackathon_Mindboggle102Team.pdf">Presentation Link</a></strong></li>
+<li><strong><a href="http://ohbm.github.io/seattle/images/HBM2013_Hackathon_Mindboggle102Team.pdf">Presentation Link</a></strong></li>
 <li><strong><a href="http://bit.ly/12e5ftp">Visualization Demo</a></strong></li>
 <li><strong>Abstract:</strong></li>
 </ul>
@@ -94,9 +94,9 @@
   
   <entry>
     <title type="html"><![CDATA[INCF sponsors the HBM Hackathon]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/06/18/incf-sponsors-the-hbm-hackathon/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/06/18/incf-sponsors-the-hbm-hackathon/"/>
     <updated>2013-06-18T08:48:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/06/18/incf-sponsors-the-hbm-hackathon</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/06/18/incf-sponsors-the-hbm-hackathon</id>
     <content type="html"><![CDATA[<p><img src="http://www.incf.org/logo.png"></p>
 
 <p>The <a href="http://www.incf.org/">International Neuroinformatics Coordinating Facility</a> (INCF) coordinates collaborative informatics infrastructure for neuroscience.</p>
@@ -110,9 +110,9 @@
   
   <entry>
     <title type="html"><![CDATA[Mindboggle 101: Manually labeled brain surfaces and volumes]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/06/17/mindboggle-101-manually-labeled-brain-surfaces-and-volumes/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/06/17/mindboggle-101-manually-labeled-brain-surfaces-and-volumes/"/>
     <updated>2013-06-17T17:03:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/06/17/mindboggle-101-manually-labeled-brain-surfaces-and-volumes</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/06/17/mindboggle-101-manually-labeled-brain-surfaces-and-volumes</id>
     <content type="html"><![CDATA[<p><img src="http://www.mindboggle.info/_static/mindboggle_logo_small.jpg"></p>
 
 <p>Mindboggle-101: Manually labeled brain surfaces and volumes</p>
@@ -129,9 +129,9 @@ Arno Klein, Jason Tourville. Frontiers in Brain Imaging Methods. 6:171. DOI: 10.
   
   <entry>
     <title type="html"><![CDATA[The 3rd HBM Hackathon challenge: Resources Mapped to MNI Space]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/06/17/the-3rd-challenge-and-mapping-to-mni/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/06/17/the-3rd-challenge-and-mapping-to-mni/"/>
     <updated>2013-06-17T07:10:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/06/17/the-3rd-challenge-and-mapping-to-mni</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/06/17/the-3rd-challenge-and-mapping-to-mni</id>
     <content type="html"><![CDATA[<p><img src="http://www.bic.mni.mcgill.ca/uploads/ServicesAtlases/mni_icbm152_sym_09a_small.jpg"></p>
 
 <p>MNI Mashup: Most innovative map or aggregation of information in the MNI 152 standard.</p>
@@ -186,10 +186,10 @@ Arno Klein, Jason Tourville. Frontiers in Brain Imaging Methods. 6:171. DOI: 10.
   
   <entry>
     <title type="html"><![CDATA[NeuroDebian: The ultimate neuroscience software platform]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform/"/>
     <updated>2013-06-11T18:00:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform</id>
-    <content type="html"><![CDATA[<p><img src="http://ohbm-seattle.github.io/images/NeuroDebian.png" title="&#34;NeuroDebian&#34;" alt="&#34;NeuroDebian&#34;"></p>
+    <id>http://ohbm.github.io/seattle/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform</id>
+    <content type="html"><![CDATA[<p><img src="http://ohbm.github.io/seattle/images/NeuroDebian.png" title="&#34;NeuroDebian&#34;" alt="&#34;NeuroDebian&#34;"></p>
 
 <p><a href="http://neuro.debian.net">NeuroDebian</a> is a turnkey software platform for nearly all aspects of the neuroscientific research process.</p>
 
@@ -246,9 +246,9 @@ Arno Klein, Jason Tourville. Frontiers in Brain Imaging Methods. 6:171. DOI: 10.
   
   <entry>
     <title type="html"><![CDATA[NIF: an inventory of Web-based neuroscience resources]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources/"/>
     <updated>2013-05-29T14:03:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources</id>
     <content type="html"><![CDATA[<p><img src="http://www.neuinfo.org/images/nif-logo.png" width="75" title="&#34;NIF&#34;" alt="&#34;NIF&#34;"></p>
 
 <p>The <a href="http://www.neuinfo.org">Neuroscience Information Framework</a>: neuroscience data, materials, and tools  via any computer connected to the Internet.</p>
@@ -298,9 +298,9 @@ Arno Klein, Jason Tourville. Frontiers in Brain Imaging Methods. 6:171. DOI: 10.
   
   <entry>
     <title type="html"><![CDATA[Explore and get public fMRI datasets from COINS Data Exchange]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange/"/>
     <updated>2013-05-14T13:29:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange</id>
     <content type="html"><![CDATA[<p><img src="http://d1yzvr466z4u1c.cloudfront.net/image02.jpg" alt="COINS Banner" style="width:100%;" /></p>
 
 <p>COINS manages fMRI, MEG and phenotypic data for over 400 studies across six research institutions.</p>
@@ -361,10 +361,10 @@ Arno Klein, Jason Tourville. Frontiers in Brain Imaging Methods. 6:171. DOI: 10.
   
   <entry>
     <title type="html"><![CDATA[NITRC-CE: A computational resource for the HBM Hackathon]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/05/13/nitrc-ce-a-cloud-based-computational-resource-for-the-hbm-hackathon/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/05/13/nitrc-ce-a-cloud-based-computational-resource-for-the-hbm-hackathon/"/>
     <updated>2013-05-13T12:00:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/05/13/nitrc-ce-a-cloud-based-computational-resource-for-the-hbm-hackathon</id>
-    <content type="html"><![CDATA[<p><img src="http://ohbm-seattle.github.io/images/NITRC-CE.png" title="&#34;NITRC-CE&#34;" alt="&#34;NITRC-CE&#34;"></p>
+    <id>http://ohbm.github.io/seattle/blog/2013/05/13/nitrc-ce-a-cloud-based-computational-resource-for-the-hbm-hackathon</id>
+    <content type="html"><![CDATA[<p><img src="http://ohbm.github.io/seattle/images/NITRC-CE.png" title="&#34;NITRC-CE&#34;" alt="&#34;NITRC-CE&#34;"></p>
 
 <p>NITRC-CE is an on-demand, cloud based computational virtual machine pre-installed with popular NITRC neuroimaging tools.</p>
 
@@ -397,9 +397,9 @@ Arno Klein, Jason Tourville. Frontiers in Brain Imaging Methods. 6:171. DOI: 10.
   
   <entry>
     <title type="html"><![CDATA[Human Connectome Project Q1 Release: Now Cloud Accessible]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/05/03/human-connectome-project-q1-release-now-cloud-accessible/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/05/03/human-connectome-project-q1-release-now-cloud-accessible/"/>
     <updated>2013-05-03T13:00:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/05/03/human-connectome-project-q1-release-now-cloud-accessible</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/05/03/human-connectome-project-q1-release-now-cloud-accessible</id>
     <content type="html"><![CDATA[<p><img src="http://www.humanconnectome.org/img/header-bg.png" title="&#34;Human Connectom Project&#34;" alt="&#34;Human Connectom Project&#34;"></p>
 
 <p>The <a href="http://www.humanconnectome.org/data/">first full quarterly HCP Data release</a> is now Cloud accessible for participants who have <a href="http://www.humanconnectome.org/data/data-use-terms/index.html">registered</a> and agreed to the <a href="http://www.humanconnectome.org/data/data-use-terms/open-access.html">Open Access Data Use Terms</a>.</p>
@@ -517,9 +517,9 @@ File s3://hcp.aws.amazon.com/q1/100307/T1w/BiasField_acpc_dc.nii.gz saved as 'T1
   
   <entry>
     <title type="html"><![CDATA[OpenfMRI Now an HBM Hackathon Resource]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/04/22/openfmri-now-an-hbm-hackathon-resource/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/04/22/openfmri-now-an-hbm-hackathon-resource/"/>
     <updated>2013-04-22T14:28:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/04/22/openfmri-now-an-hbm-hackathon-resource</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/04/22/openfmri-now-an-hbm-hackathon-resource</id>
     <content type="html"><![CDATA[<p><img src="https://openfmri.org/sites/all/themes/openfmri/logo.png" title="height=150 &#34;OpenfMRI&#34;" alt="height=150 &#34;OpenfMRI&#34;"></p>
 
 <p>The <a href="http://openfmri.org">OpenfMRI</a> project provides raw and processed task fMRI datasets for use in re-analysis and mega-analysis that are now Cloud accessible.</p>
@@ -547,9 +547,9 @@ File s3://hcp.aws.amazon.com/q1/100307/T1w/BiasField_acpc_dc.nii.gz saved as 'T1
   
   <entry>
     <title type="html"><![CDATA[Start Hacking with Data from ADNI]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/04/21/start-hacking-with-data-from-adni/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/04/21/start-hacking-with-data-from-adni/"/>
     <updated>2013-04-21T08:38:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/04/21/start-hacking-with-data-from-adni</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/04/21/start-hacking-with-data-from-adni</id>
     <content type="html"><![CDATA[<p><img src="https://ida.loni.ucla.edu/services/Images/Header/ADNI_Logo.png" title="height=150 &#34;ADNI&#34;" alt="height=150 &#34;ADNI&#34;"></p>
 
 <p>Start responding to the hackathon challenges using data from ADNI - the <a href="http://www.adni-info.org">Alzheimer&#8217;s Disease Neuroimaging Initiative</a>.</p>
@@ -568,9 +568,9 @@ File s3://hcp.aws.amazon.com/q1/100307/T1w/BiasField_acpc_dc.nii.gz saved as 'T1
   
   <entry>
     <title type="html"><![CDATA[LONI Pipeline in the Cloud]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/04/18/loni-pipeline-in-the-cloud/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/04/18/loni-pipeline-in-the-cloud/"/>
     <updated>2013-04-18T14:30:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/04/18/loni-pipeline-in-the-cloud</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/04/18/loni-pipeline-in-the-cloud</id>
     <content type="html"><![CDATA[<p><img src="http://pipeline.loni.ucla.edu/wp-content/themes/pipeline2012/images/explore_Coin.jpg" title="height=150 &#34;LONI Pipeline&#34;" alt="height=150 &#34;LONI Pipeline&#34;"></p>
 
 <p>The <a href="http://pipeline.loni.ucla.edu" title="LONI Pipeline">LONI Pipeline</a> is available on the Cloud as an <a href="http://pipeline.loni.ucla.edu/products-services/pipeline-server-on-ec2" title="Pipeline on EC2">Amazon EC2 Instance</a> (i.e., virtual machine) with access to several datasets.</p>
@@ -584,9 +584,9 @@ File s3://hcp.aws.amazon.com/q1/100307/T1w/BiasField_acpc_dc.nii.gz saved as 'T1
   
   <entry>
     <title type="html"><![CDATA[The National Database for Autism Research Data Dive]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/04/18/the-national-database-for-autism-research-data-dive/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/04/18/the-national-database-for-autism-research-data-dive/"/>
     <updated>2013-04-18T13:02:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/04/18/the-national-database-for-autism-research-data-dive</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/04/18/the-national-database-for-autism-research-data-dive</id>
     <content type="html"><![CDATA[<p><img src="http://ndar.nih.gov/images/ndar/ndar.png" title="&#34;NDAR&#34;" alt="&#34;NDAR&#34;">
 This HBM Hackathon accessible repository is an excellent resource for finding significant relationships amongst neuroimaging, clinical, and –omics data within the National Database for Autism Research (<a href="http://ndar.nih.gov">NDAR</a>).</p>
 
@@ -615,9 +615,9 @@ This HBM Hackathon accessible repository is an excellent resource for finding si
   
   <entry>
     <title type="html"><![CDATA[Challenge #1: Allen Human Brain Atlas Integration]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/04/15/challenge-number-1-allen-human-brain-atlas-integration/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/04/15/challenge-number-1-allen-human-brain-atlas-integration/"/>
     <updated>2013-04-15T12:00:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/04/15/challenge-number-1-allen-human-brain-atlas-integration</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/04/15/challenge-number-1-allen-human-brain-atlas-integration</id>
     <content type="html"><![CDATA[<p><img src="http://www.alleninstitute.org/Assets/images/common/logo_institute.png" title="&#34;Allen Institute for Brain Science&#34;" alt="&#34;Allen Institute for Brain Science&#34;">
 For this challenge, you will try to identify the best relationship between
 imaging data and gene expression data in the Allen Human Brain Atlas.</p>
@@ -675,10 +675,10 @@ mapped back into the native brain MRI coordinates and subsequently to Montreal N
   
   <entry>
     <title type="html"><![CDATA[HBM Hackathon Announced!]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/04/15/hbm-hackathon-announced/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/04/15/hbm-hackathon-announced/"/>
     <updated>2013-04-15T00:00:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/04/15/hbm-hackathon-announced</id>
-    <content type="html"><![CDATA[<p><img src="http://ohbm-seattle.github.io/images/HBM_Hackthon_logo_small.png" width="200" height="232" title="&#34;HBM Hackathon&#34;" alt="&#34;HBM Hackathon&#34;">
+    <id>http://ohbm.github.io/seattle/blog/2013/04/15/hbm-hackathon-announced</id>
+    <content type="html"><![CDATA[<p><img src="http://ohbm.github.io/seattle/images/HBM_Hackthon_logo_small.png" width="200" height="232" title="&#34;HBM Hackathon&#34;" alt="&#34;HBM Hackathon&#34;">
 The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackathon</strong>, a meeting-long analysis and resource building competition designed to accelerate the connection between open neuroscience and cloud computing.</p>
 
 <!-- more -->
@@ -692,7 +692,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 
 <ul>
 <li><strong><a href="http://humanbrainmapping.org/hackathon">Registration</a></strong></li>
-<li><strong><a href="http://ohbm-seattle.github.io/">Website and Blog</a></strong></li>
+<li><strong><a href="http://ohbm.github.io/seattle/">Website and Blog</a></strong></li>
 <li><strong><a href="http://www.linkedin.com/groups/HBM-Hackathon-4957800">Discussion Group</a></strong></li>
 </ul>
 
@@ -776,7 +776,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 
 <h4>Contest and Challenges</h4>
 
-<p>The contest will be organized around three Challenges, two of them pre-announced and open to work in advance of the meeting; and one announced at the time of the meeting. A brief overview of the challenges are provided here and a more detailed post will be provided separately as a post here at the <a href="http://ohbm-seattle.github.io">HBM Hackathon Blog</a>.</p>
+<p>The contest will be organized around three Challenges, two of them pre-announced and open to work in advance of the meeting; and one announced at the time of the meeting. A brief overview of the challenges are provided here and a more detailed post will be provided separately as a post here at the <a href="http://ohbm.github.io/seattle">HBM Hackathon Blog</a>.</p>
 
 <p>HBM Hackathon participants are encouraged to work in teams and will receive several incentives:</p>
 

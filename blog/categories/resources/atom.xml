@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Resources | HBM Hackathon]]></title>
-  <link href="http://ohbm-seattle.github.io/blog/categories/resources/atom.xml" rel="self"/>
-  <link href="http://ohbm-seattle.github.io/"/>
+  <link href="http://ohbm.github.io/seattle/blog/categories/resources/atom.xml" rel="self"/>
+  <link href="http://ohbm.github.io/seattle/"/>
   <updated>2013-06-26T07:24:33-07:00</updated>
-  <id>http://ohbm-seattle.github.io/</id>
+  <id>http://ohbm.github.io/seattle/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
     <email><![CDATA[hbm.hackathon@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[INCF sponsors the HBM Hackathon]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/06/18/incf-sponsors-the-hbm-hackathon/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/06/18/incf-sponsors-the-hbm-hackathon/"/>
     <updated>2013-06-18T08:48:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/06/18/incf-sponsors-the-hbm-hackathon</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/06/18/incf-sponsors-the-hbm-hackathon</id>
     <content type="html"><![CDATA[<p><img src="http://www.incf.org/logo.png"></p>
 
 <p>The <a href="http://www.incf.org/">International Neuroinformatics Coordinating Facility</a> (INCF) coordinates collaborative informatics infrastructure for neuroscience.</p>

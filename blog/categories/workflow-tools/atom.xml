@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Workflow Tools | HBM Hackathon]]></title>
-  <link href="http://ohbm-seattle.github.io/blog/categories/workflow-tools/atom.xml" rel="self"/>
-  <link href="http://ohbm-seattle.github.io/"/>
+  <link href="http://ohbm.github.io/seattle/blog/categories/workflow-tools/atom.xml" rel="self"/>
+  <link href="http://ohbm.github.io/seattle/"/>
   <updated>2013-06-26T07:24:33-07:00</updated>
-  <id>http://ohbm-seattle.github.io/</id>
+  <id>http://ohbm.github.io/seattle/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
     <email><![CDATA[hbm.hackathon@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[LONI Pipeline in the Cloud]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/04/18/loni-pipeline-in-the-cloud/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/04/18/loni-pipeline-in-the-cloud/"/>
     <updated>2013-04-18T14:30:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/04/18/loni-pipeline-in-the-cloud</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/04/18/loni-pipeline-in-the-cloud</id>
     <content type="html"><![CDATA[<p><img src="http://pipeline.loni.ucla.edu/wp-content/themes/pipeline2012/images/explore_Coin.jpg" title="height=150 &#34;LONI Pipeline&#34;" alt="height=150 &#34;LONI Pipeline&#34;"></p>
 
 <p>The <a href="http://pipeline.loni.ucla.edu" title="LONI Pipeline">LONI Pipeline</a> is available on the Cloud as an <a href="http://pipeline.loni.ucla.edu/products-services/pipeline-server-on-ec2" title="Pipeline on EC2">Amazon EC2 Instance</a> (i.e., virtual machine) with access to several datasets.</p>

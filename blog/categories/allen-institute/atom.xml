@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Allen Institute | HBM Hackathon]]></title>
-  <link href="http://ohbm-seattle.github.io/blog/categories/allen-institute/atom.xml" rel="self"/>
-  <link href="http://ohbm-seattle.github.io/"/>
+  <link href="http://ohbm.github.io/seattle/blog/categories/allen-institute/atom.xml" rel="self"/>
+  <link href="http://ohbm.github.io/seattle/"/>
   <updated>2013-06-26T07:24:33-07:00</updated>
-  <id>http://ohbm-seattle.github.io/</id>
+  <id>http://ohbm.github.io/seattle/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
     <email><![CDATA[hbm.hackathon@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Challenge #1: Allen Human Brain Atlas Integration]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/04/15/challenge-number-1-allen-human-brain-atlas-integration/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/04/15/challenge-number-1-allen-human-brain-atlas-integration/"/>
     <updated>2013-04-15T12:00:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/04/15/challenge-number-1-allen-human-brain-atlas-integration</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/04/15/challenge-number-1-allen-human-brain-atlas-integration</id>
     <content type="html"><![CDATA[<p><img src="http://www.alleninstitute.org/Assets/images/common/logo_institute.png" title="&#34;Allen Institute for Brain Science&#34;" alt="&#34;Allen Institute for Brain Science&#34;">
 For this challenge, you will try to identify the best relationship between
 imaging data and gene expression data in the Allen Human Brain Atlas.</p>

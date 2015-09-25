@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Challenges | HBM Hackathon]]></title>
-  <link href="http://ohbm-seattle.github.io/blog/categories/challenges/atom.xml" rel="self"/>
-  <link href="http://ohbm-seattle.github.io/"/>
+  <link href="http://ohbm.github.io/seattle/blog/categories/challenges/atom.xml" rel="self"/>
+  <link href="http://ohbm.github.io/seattle/"/>
   <updated>2013-06-26T07:24:33-07:00</updated>
-  <id>http://ohbm-seattle.github.io/</id>
+  <id>http://ohbm.github.io/seattle/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
     <email><![CDATA[hbm.hackathon@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The 3rd HBM Hackathon challenge: Resources Mapped to MNI Space]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/06/17/the-3rd-challenge-and-mapping-to-mni/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/06/17/the-3rd-challenge-and-mapping-to-mni/"/>
     <updated>2013-06-17T07:10:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/06/17/the-3rd-challenge-and-mapping-to-mni</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/06/17/the-3rd-challenge-and-mapping-to-mni</id>
     <content type="html"><![CDATA[<p><img src="http://www.bic.mni.mcgill.ca/uploads/ServicesAtlases/mni_icbm152_sym_09a_small.jpg"></p>
 
 <p>MNI Mashup: Most innovative map or aggregation of information in the MNI 152 standard.</p>
@@ -72,9 +72,9 @@
   
   <entry>
     <title type="html"><![CDATA[OpenfMRI Now an HBM Hackathon Resource]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/04/22/openfmri-now-an-hbm-hackathon-resource/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/04/22/openfmri-now-an-hbm-hackathon-resource/"/>
     <updated>2013-04-22T14:28:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/04/22/openfmri-now-an-hbm-hackathon-resource</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/04/22/openfmri-now-an-hbm-hackathon-resource</id>
     <content type="html"><![CDATA[<p><img src="https://openfmri.org/sites/all/themes/openfmri/logo.png" title="height=150 &#34;OpenfMRI&#34;" alt="height=150 &#34;OpenfMRI&#34;"></p>
 
 <p>The <a href="http://openfmri.org">OpenfMRI</a> project provides raw and processed task fMRI datasets for use in re-analysis and mega-analysis that are now Cloud accessible.</p>
@@ -102,9 +102,9 @@
   
   <entry>
     <title type="html"><![CDATA[The National Database for Autism Research Data Dive]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/04/18/the-national-database-for-autism-research-data-dive/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/04/18/the-national-database-for-autism-research-data-dive/"/>
     <updated>2013-04-18T13:02:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/04/18/the-national-database-for-autism-research-data-dive</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/04/18/the-national-database-for-autism-research-data-dive</id>
     <content type="html"><![CDATA[<p><img src="http://ndar.nih.gov/images/ndar/ndar.png" title="&#34;NDAR&#34;" alt="&#34;NDAR&#34;">
 This HBM Hackathon accessible repository is an excellent resource for finding significant relationships amongst neuroimaging, clinical, and –omics data within the National Database for Autism Research (<a href="http://ndar.nih.gov">NDAR</a>).</p>
 
@@ -133,9 +133,9 @@ This HBM Hackathon accessible repository is an excellent resource for finding si
   
   <entry>
     <title type="html"><![CDATA[Challenge #1: Allen Human Brain Atlas Integration]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/04/15/challenge-number-1-allen-human-brain-atlas-integration/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/04/15/challenge-number-1-allen-human-brain-atlas-integration/"/>
     <updated>2013-04-15T12:00:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/04/15/challenge-number-1-allen-human-brain-atlas-integration</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/04/15/challenge-number-1-allen-human-brain-atlas-integration</id>
     <content type="html"><![CDATA[<p><img src="http://www.alleninstitute.org/Assets/images/common/logo_institute.png" title="&#34;Allen Institute for Brain Science&#34;" alt="&#34;Allen Institute for Brain Science&#34;">
 For this challenge, you will try to identify the best relationship between
 imaging data and gene expression data in the Allen Human Brain Atlas.</p>
@@ -193,9 +193,9 @@ mapped back into the native brain MRI coordinates and subsequently to Montreal N
   
   <entry>
     <title type="html"><![CDATA[HBM Hackathon Announced!]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/04/15/hbm-hackathon-announced/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/04/15/hbm-hackathon-announced/"/>
     <updated>2013-04-15T00:00:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/04/15/hbm-hackathon-announced</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/04/15/hbm-hackathon-announced</id>
     <content type="html"><![CDATA[<p><img src="/images/HBM_Hackthon_logo_small.png" width="200" height="232" title="&#34;HBM Hackathon&#34;" alt="&#34;HBM Hackathon&#34;">
 The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackathon</strong>, a meeting-long analysis and resource building competition designed to accelerate the connection between open neuroscience and cloud computing.</p>
 
@@ -210,7 +210,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 
 <ul>
 <li><strong><a href="http://humanbrainmapping.org/hackathon">Registration</a></strong></li>
-<li><strong><a href="http://ohbm-seattle.github.io/">Website and Blog</a></strong></li>
+<li><strong><a href="http://ohbm.github.io/seattle/">Website and Blog</a></strong></li>
 <li><strong><a href="http://www.linkedin.com/groups/HBM-Hackathon-4957800">Discussion Group</a></strong></li>
 </ul>
 
@@ -294,7 +294,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 
 <h4>Contest and Challenges</h4>
 
-<p>The contest will be organized around three Challenges, two of them pre-announced and open to work in advance of the meeting; and one announced at the time of the meeting. A brief overview of the challenges are provided here and a more detailed post will be provided separately as a post here at the <a href="http://ohbm-seattle.github.io">HBM Hackathon Blog</a>.</p>
+<p>The contest will be organized around three Challenges, two of them pre-announced and open to work in advance of the meeting; and one announced at the time of the meeting. A brief overview of the challenges are provided here and a more detailed post will be provided separately as a post here at the <a href="http://ohbm.github.io/seattle">HBM Hackathon Blog</a>.</p>
 
 <p>HBM Hackathon participants are encouraged to work in teams and will receive several incentives:</p>
 

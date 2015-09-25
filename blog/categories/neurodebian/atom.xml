@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: NeuroDebian | HBM Hackathon]]></title>
-  <link href="http://ohbm-seattle.github.io/blog/categories/neurodebian/atom.xml" rel="self"/>
-  <link href="http://ohbm-seattle.github.io/"/>
+  <link href="http://ohbm.github.io/seattle/blog/categories/neurodebian/atom.xml" rel="self"/>
+  <link href="http://ohbm.github.io/seattle/"/>
   <updated>2013-06-26T07:24:33-07:00</updated>
-  <id>http://ohbm-seattle.github.io/</id>
+  <id>http://ohbm.github.io/seattle/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
     <email><![CDATA[hbm.hackathon@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[NeuroDebian: The ultimate neuroscience software platform]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform/"/>
     <updated>2013-06-11T18:00:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform</id>
     <content type="html"><![CDATA[<p><img src="/images/NeuroDebian.png" title="&#34;NeuroDebian&#34;" alt="&#34;NeuroDebian&#34;"></p>
 
 <p><a href="http://neuro.debian.net">NeuroDebian</a> is a turnkey software platform for nearly all aspects of the neuroscientific research process.</p>
@@ -75,9 +75,9 @@
   
   <entry>
     <title type="html"><![CDATA[NITRC-CE: A computational resource for the HBM Hackathon]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/05/13/nitrc-ce-a-cloud-based-computational-resource-for-the-hbm-hackathon/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/05/13/nitrc-ce-a-cloud-based-computational-resource-for-the-hbm-hackathon/"/>
     <updated>2013-05-13T12:00:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/05/13/nitrc-ce-a-cloud-based-computational-resource-for-the-hbm-hackathon</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/05/13/nitrc-ce-a-cloud-based-computational-resource-for-the-hbm-hackathon</id>
     <content type="html"><![CDATA[<p><img src="/images/NITRC-CE.png" title="&#34;NITRC-CE&#34;" alt="&#34;NITRC-CE&#34;"></p>
 
 <p>NITRC-CE is an on-demand, cloud based computational virtual machine pre-installed with popular NITRC neuroimaging tools.</p>

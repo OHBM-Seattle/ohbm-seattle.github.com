@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Databases | HBM Hackathon]]></title>
-  <link href="http://ohbm-seattle.github.io/blog/categories/databases/atom.xml" rel="self"/>
-  <link href="http://ohbm-seattle.github.io/"/>
+  <link href="http://ohbm.github.io/seattle/blog/categories/databases/atom.xml" rel="self"/>
+  <link href="http://ohbm.github.io/seattle/"/>
   <updated>2013-06-26T07:24:33-07:00</updated>
-  <id>http://ohbm-seattle.github.io/</id>
+  <id>http://ohbm.github.io/seattle/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
     <email><![CDATA[hbm.hackathon@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[NIF: an inventory of Web-based neuroscience resources]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources/"/>
     <updated>2013-05-29T14:03:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources</id>
     <content type="html"><![CDATA[<p><img src="http://www.neuinfo.org/images/nif-logo.png" width="75" title="&#34;NIF&#34;" alt="&#34;NIF&#34;"></p>
 
 <p>The <a href="http://www.neuinfo.org">Neuroscience Information Framework</a>: neuroscience data, materials, and tools  via any computer connected to the Internet.</p>

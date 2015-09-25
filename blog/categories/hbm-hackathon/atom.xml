@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: HBM Hackathon | HBM Hackathon]]></title>
-  <link href="http://ohbm-seattle.github.io/blog/categories/hbm-hackathon/atom.xml" rel="self"/>
-  <link href="http://ohbm-seattle.github.io/"/>
+  <link href="http://ohbm.github.io/seattle/blog/categories/hbm-hackathon/atom.xml" rel="self"/>
+  <link href="http://ohbm.github.io/seattle/"/>
   <updated>2013-06-26T07:24:33-07:00</updated>
-  <id>http://ohbm-seattle.github.io/</id>
+  <id>http://ohbm.github.io/seattle/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
     <email><![CDATA[hbm.hackathon@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[HBM Hackathon Announced!]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/04/15/hbm-hackathon-announced/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/04/15/hbm-hackathon-announced/"/>
     <updated>2013-04-15T00:00:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/04/15/hbm-hackathon-announced</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/04/15/hbm-hackathon-announced</id>
     <content type="html"><![CDATA[<p><img src="/images/HBM_Hackthon_logo_small.png" width="200" height="232" title="&#34;HBM Hackathon&#34;" alt="&#34;HBM Hackathon&#34;">
 The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackathon</strong>, a meeting-long analysis and resource building competition designed to accelerate the connection between open neuroscience and cloud computing.</p>
 
@@ -32,7 +32,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 
 <ul>
 <li><strong><a href="http://humanbrainmapping.org/hackathon">Registration</a></strong></li>
-<li><strong><a href="http://ohbm-seattle.github.io/">Website and Blog</a></strong></li>
+<li><strong><a href="http://ohbm.github.io/seattle/">Website and Blog</a></strong></li>
 <li><strong><a href="http://www.linkedin.com/groups/HBM-Hackathon-4957800">Discussion Group</a></strong></li>
 </ul>
 
@@ -116,7 +116,7 @@ The OHBM 2013 Local Organizing Committee (LOC) announces the <strong>HBM Hackath
 
 <h4>Contest and Challenges</h4>
 
-<p>The contest will be organized around three Challenges, two of them pre-announced and open to work in advance of the meeting; and one announced at the time of the meeting. A brief overview of the challenges are provided here and a more detailed post will be provided separately as a post here at the <a href="http://ohbm-seattle.github.io">HBM Hackathon Blog</a>.</p>
+<p>The contest will be organized around three Challenges, two of them pre-announced and open to work in advance of the meeting; and one announced at the time of the meeting. A brief overview of the challenges are provided here and a more detailed post will be provided separately as a post here at the <a href="http://ohbm.github.io/seattle">HBM Hackathon Blog</a>.</p>
 
 <p>HBM Hackathon participants are encouraged to work in teams and will receive several incentives:</p>
 

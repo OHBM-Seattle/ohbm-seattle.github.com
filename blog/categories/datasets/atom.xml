@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Datasets | HBM Hackathon]]></title>
-  <link href="http://ohbm-seattle.github.io/blog/categories/datasets/atom.xml" rel="self"/>
-  <link href="http://ohbm-seattle.github.io/"/>
+  <link href="http://ohbm.github.io/seattle/blog/categories/datasets/atom.xml" rel="self"/>
+  <link href="http://ohbm.github.io/seattle/"/>
   <updated>2013-06-26T07:24:33-07:00</updated>
-  <id>http://ohbm-seattle.github.io/</id>
+  <id>http://ohbm.github.io/seattle/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
     <email><![CDATA[hbm.hackathon@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[INCF sponsors the HBM Hackathon]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/06/18/incf-sponsors-the-hbm-hackathon/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/06/18/incf-sponsors-the-hbm-hackathon/"/>
     <updated>2013-06-18T08:48:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/06/18/incf-sponsors-the-hbm-hackathon</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/06/18/incf-sponsors-the-hbm-hackathon</id>
     <content type="html"><![CDATA[<p><img src="http://www.incf.org/logo.png"></p>
 
 <p>The <a href="http://www.incf.org/">International Neuroinformatics Coordinating Facility</a> (INCF) coordinates collaborative informatics infrastructure for neuroscience.</p>
@@ -31,9 +31,9 @@
   
   <entry>
     <title type="html"><![CDATA[Mindboggle 101: Manually labeled brain surfaces and volumes]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/06/17/mindboggle-101-manually-labeled-brain-surfaces-and-volumes/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/06/17/mindboggle-101-manually-labeled-brain-surfaces-and-volumes/"/>
     <updated>2013-06-17T17:03:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/06/17/mindboggle-101-manually-labeled-brain-surfaces-and-volumes</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/06/17/mindboggle-101-manually-labeled-brain-surfaces-and-volumes</id>
     <content type="html"><![CDATA[<p><img src="http://www.mindboggle.info/_static/mindboggle_logo_small.jpg"></p>
 
 <p>Mindboggle-101: Manually labeled brain surfaces and volumes</p>
@@ -50,9 +50,9 @@ Arno Klein, Jason Tourville. Frontiers in Brain Imaging Methods. 6:171. DOI: 10.
   
   <entry>
     <title type="html"><![CDATA[NeuroDebian: The ultimate neuroscience software platform]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform/"/>
     <updated>2013-06-11T18:00:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/06/11/neurodebian-the-ultimate-neuroscience-software-platform</id>
     <content type="html"><![CDATA[<p><img src="/images/NeuroDebian.png" title="&#34;NeuroDebian&#34;" alt="&#34;NeuroDebian&#34;"></p>
 
 <p><a href="http://neuro.debian.net">NeuroDebian</a> is a turnkey software platform for nearly all aspects of the neuroscientific research process.</p>
@@ -110,9 +110,9 @@ Arno Klein, Jason Tourville. Frontiers in Brain Imaging Methods. 6:171. DOI: 10.
   
   <entry>
     <title type="html"><![CDATA[NIF: an inventory of Web-based neuroscience resources]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources/"/>
     <updated>2013-05-29T14:03:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/05/29/nif-an-inventory-of-web-based-neuroscience-resources</id>
     <content type="html"><![CDATA[<p><img src="http://www.neuinfo.org/images/nif-logo.png" width="75" title="&#34;NIF&#34;" alt="&#34;NIF&#34;"></p>
 
 <p>The <a href="http://www.neuinfo.org">Neuroscience Information Framework</a>: neuroscience data, materials, and tools  via any computer connected to the Internet.</p>
@@ -162,9 +162,9 @@ Arno Klein, Jason Tourville. Frontiers in Brain Imaging Methods. 6:171. DOI: 10.
   
   <entry>
     <title type="html"><![CDATA[Explore and get public fMRI datasets from COINS Data Exchange]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange/"/>
     <updated>2013-05-14T13:29:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange</id>
     <content type="html"><![CDATA[<p><img src="http://d1yzvr466z4u1c.cloudfront.net/image02.jpg" alt="COINS Banner" style="width:100%;" /></p>
 
 <p>COINS manages fMRI, MEG and phenotypic data for over 400 studies across six research institutions.</p>

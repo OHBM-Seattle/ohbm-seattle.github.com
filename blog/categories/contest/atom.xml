@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Contest | HBM Hackathon]]></title>
-  <link href="http://ohbm-seattle.github.io/blog/categories/contest/atom.xml" rel="self"/>
-  <link href="http://ohbm-seattle.github.io/"/>
+  <link href="http://ohbm.github.io/seattle/blog/categories/contest/atom.xml" rel="self"/>
+  <link href="http://ohbm.github.io/seattle/"/>
   <updated>2013-06-26T07:24:33-07:00</updated>
-  <id>http://ohbm-seattle.github.io/</id>
+  <id>http://ohbm.github.io/seattle/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
     <email><![CDATA[hbm.hackathon@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Contest Winners Announced!]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/06/25/contest-winners-announced/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/06/25/contest-winners-announced/"/>
     <updated>2013-06-25T17:39:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/06/25/contest-winners-announced</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/06/25/contest-winners-announced</id>
     <content type="html"><![CDATA[<p><img src="/images/hackathon-banner.png"></p>
 
 <p>Congratulations to the winners of the HBM Hackathon Competition!</p>

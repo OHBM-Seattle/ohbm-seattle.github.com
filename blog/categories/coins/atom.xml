@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: COINS | HBM Hackathon]]></title>
-  <link href="http://ohbm-seattle.github.io/blog/categories/coins/atom.xml" rel="self"/>
-  <link href="http://ohbm-seattle.github.io/"/>
+  <link href="http://ohbm.github.io/seattle/blog/categories/coins/atom.xml" rel="self"/>
+  <link href="http://ohbm.github.io/seattle/"/>
   <updated>2013-06-26T07:24:33-07:00</updated>
-  <id>http://ohbm-seattle.github.io/</id>
+  <id>http://ohbm.github.io/seattle/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
     <email><![CDATA[hbm.hackathon@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Explore and get public fMRI datasets from COINS Data Exchange]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange/"/>
     <updated>2013-05-14T13:29:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/05/14/explore-and-get-public-fmri-datasets-from-coins-data-exchange</id>
     <content type="html"><![CDATA[<p><img src="http://d1yzvr466z4u1c.cloudfront.net/image02.jpg" alt="COINS Banner" style="width:100%;" /></p>
 
 <p>COINS manages fMRI, MEG and phenotypic data for over 400 studies across six research institutions.</p>

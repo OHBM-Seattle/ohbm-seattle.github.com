@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: NDAR | HBM Hackathon]]></title>
-  <link href="http://ohbm-seattle.github.io/blog/categories/ndar/atom.xml" rel="self"/>
-  <link href="http://ohbm-seattle.github.io/"/>
+  <link href="http://ohbm.github.io/seattle/blog/categories/ndar/atom.xml" rel="self"/>
+  <link href="http://ohbm.github.io/seattle/"/>
   <updated>2013-06-26T07:24:33-07:00</updated>
-  <id>http://ohbm-seattle.github.io/</id>
+  <id>http://ohbm.github.io/seattle/</id>
   <author>
     <name><![CDATA[OHBM Organizing Committee]]></name>
     <email><![CDATA[hbm.hackathon@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The National Database for Autism Research Data Dive]]></title>
-    <link href="http://ohbm-seattle.github.io/blog/2013/04/18/the-national-database-for-autism-research-data-dive/"/>
+    <link href="http://ohbm.github.io/seattle/blog/2013/04/18/the-national-database-for-autism-research-data-dive/"/>
     <updated>2013-04-18T13:02:00-07:00</updated>
-    <id>http://ohbm-seattle.github.io/blog/2013/04/18/the-national-database-for-autism-research-data-dive</id>
+    <id>http://ohbm.github.io/seattle/blog/2013/04/18/the-national-database-for-autism-research-data-dive</id>
     <content type="html"><![CDATA[<p><img src="http://ndar.nih.gov/images/ndar/ndar.png" title="&#34;NDAR&#34;" alt="&#34;NDAR&#34;">
 This HBM Hackathon accessible repository is an excellent resource for finding significant relationships amongst neuroimaging, clinical, and –omics data within the National Database for Autism Research (<a href="http://ndar.nih.gov">NDAR</a>).</p>
 
